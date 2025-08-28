@@ -11,11 +11,20 @@ date: "08-27-2025"
 
 ### GitHub Setup
 
-Prompt: 
+Prompt:
 
-–   Create an account on GitHub
-–   Describe a practical application for using GitHub
-on this program
+-   Create an account on GitHub
+-   Describe a practical application for using GitHub for this program
 
 Response:
+
+I've had a GitHub account (https://github.com/oonuttlet) since 2021, where I store various files, some for classes and some for projects. As an example, you can view my repository of notes and assignments for GES 774: https://github.com/oonuttlet/ges_774_in_class.
+
+For project management, which is generally less technical, Git and GitHub may seem less useful. However, I think they can still play an important role, which is well (though cheekily) described by one of my favorite tweets:
+
+![do lawyers use version control for contracts or they just rawdog it?](img/github_lawyer_tweet.png)
+
+Using version control software like Git allows a project manager to iterate upon and revise a strategic plan, while leaving prior revisions available for transparency and accountability. As project scope changes and a strategic plan matures, changes will inevitably need to be made, and Git allows for a full record of all changes that have been made, which is particularly important in governmental capacities.
+
+One bonus feature of distributed version control such as Git is the ability to work across different computers in different locations. For example, today in class, I took notes on my laptop (which then died!), but because I was able to commit the document to my GitHub repository, I can continue my work seamlessly from my desktop. This is an important feature when considering today's workforce, which often has teams spread across different remote and on-prem locations.
 
