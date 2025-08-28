@@ -1,0 +1,21 @@
+---
+title: "GES 678: Assignment 1"
+subtitle: "Due 09-03-2025"
+format: 
+  pdf:
+    toc: true
+date: "08-27-2025"
+---
+
+{{< pagebreak >}}
+
+### GitHub Setup
+
+Prompt: 
+
+–   Create an account on GitHub
+–   Describe a practical application for using GitHub
+on this program
+
+Response:
+
