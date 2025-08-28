@@ -13,12 +13,13 @@ date: "08-27-2025"
 
 Prompt:
 
--   Create an account on GitHub
--   Describe a practical application for using GitHub for this program
+Create a GitHub account for yourself for this class. It may be an existing site, or a new one created for this class.
+
+Share the URL and explain the value you may achieve by having this site to showcase your skills and knowledge you gain from this class and the overall MPS program.
 
 Response:
 
-I've had a GitHub account (https://github.com/oonuttlet) since 2021, where I store various files, some for classes and some for projects. As an example, you can view my repository of notes and assignments for GES 774: https://github.com/oonuttlet/ges_774_in_class.
+I've had a GitHub account <https://github.com/oonuttlet> since 2021, where I store various files, some for classes and some for projects. As an example, you can view my repository of notes and assignments for GES 774: <https://github.com/oonuttlet/ges_774_in_class>.
 
 For project management, which is generally less technical, Git and GitHub may seem less useful. However, I think they can still play an important role, which is well (though cheekily) described by one of my favorite tweets:
 
@@ -28,3 +29,63 @@ Using version control software like Git allows a project manager to iterate upon
 
 One bonus feature of distributed version control such as Git is the ability to work across different computers in different locations. For example, today in class, I took notes on my laptop (which then died!), but because I was able to commit the document to my GitHub repository, I can continue my work seamlessly from my desktop. This is an important feature when considering today's workforce, which often has teams spread across different remote and on-prem locations.
 
+As a student, a full GitHub account demonstrates to employers and colleagues that you are proficient in technical aspects of GIS and programming. Additionally, being able to send one link which is easily navigable and readable is very powerful -- it can stand at the top of a resume without increasing the page length, for example. A great way to further utilize GitHub is to use GitHub Pages to create a technical portfolio: mine can be found at <https://oonuttlet.github.io>.
+
+### Top skills needed for a GIS Manager
+
+Prompt:
+
+What are the top 5 skills you think are needed by a GIS Manager? Explain your answer in 1-2 sentences.
+
+Response:
+
+First and foremost, I think a GIS manager should have experience with and proficiency in GIS techniques and tools. Though it seems obvious, having hands-on experience with the tools which will be used to carry out a strategic plan is crucial to the success of a plan: being able to answer "why GIS?" requires the manager to be able to fully understand the capabilities of different GIS software packages, infrastructures, and even support and client relation systems. For example, understanding the pros and cons of using GeoServer over ArcGIS Server (or vice versa) when implementing an enterprise-level web GIS environment is crucial.
+
+The second skill a GIS manager should have is an ability to read and understand documentation, even outside of GIS software. By being able to understand both technical documentation (*e.g.*, what other tools could be used to solve this problem over GIS?) and less specialized documentation (*e.g.*, reading previous strategic plans to see what's been done already), a GIS manager will have a leg up when considering a new plan.
+
+Third, a GIS manager needs to be able to translate processes and systems to stakeholders with different levels of expertise and different priorities. In order to implement GIS into an organization, upper-level management needs to buy into the idea of GIS, and how it can help solve their issues. For example, a CFO isn't interested in the elevation field schema of a network dataset -- they're more interested in how cutting down on left turns can save them money, and how GIS will help that happen. On the flip side, a GIS manager needs to be able to parse non-technical requests from leadership in order to implement them into the strategic plan, and pass tasks along to workers.
+
+A GIS manager should also be willing and able to navigate relationships and conversations with multiple interested parties. Being able to work out a compromise between departments, or mark a goal as unfeasible, will lead to a better strategic plan which won't have to be changed as often as it would otherwise.
+
+Finally, a GIS manager should be a steward of good data governance, including change control processes and principles of least privilege. If stakeholders are confident that their data will be safe and used properly, and the GIS will be reliable and accurate, they are more likely to support the strategic plan throughout its lifecycle.
+
+### GIS Manager Job Descriptions
+
+Prompt:
+
+Find and post in the discussion group "GIS Manager descriptions" a description of a GIS Manager from a reliable website. It can be from a recent job posting or specifications of a position from a compnay or government agency.
+
+Response:
+
+The attached document is an active posting from the city of Falls Church, Virginia. Though many of the listed duties are hands-on, technical GIS work, there are a few bullet points that particularly relate to planning and project management, namely:
+
+-   Evaluates GIS application software and coordinates the implementation of related applications
+-   Assists in the development and implementation of a GIS Strategic Plan
+-   Supports the City’s transition to NextGen 911
+
+All three of these involve some kind of enterprise planning and project management, ranging in scope from a broad "GIS Strategic Plan" for the organization, to specific projects like the 911 transition.
+
+### GIS Strategic Plans
+
+Prompt:
+
+Review and read GIS strategic plans from 3 organizations.
+
+Post the following for each plan:
+
+-   Plan Name
+-   Geographic area / Organization covered by plan
+-   URL of the plan document
+-   Which plan will you present in class
+
+1.  Wilmington, North Carolina
+    -   GIS Strategic Plan Phase I (2018)
+    -   [https://www.wilmingtonnc.gov/files/assets/city/v/1/government/documents/gis-strategic-plan.pdf](https://www.wilmingtonnc.gov/files/assets/city/v/1/government/documents/gis-strategic-plan.pdf)
+2.  Kittitas County, WA
+    -   Kittitas County GIS Strategic Plan \| 2018-2023
+    -   [https://www.co.kittitas.wa.us/uploads/it/gis/KC-GIS-Strategic-Plan-2018-2023.pdf](https://www.co.kittitas.wa.us/uploads/it/gis/KC-GIS-Strategic-Plan-2018-2023.pdf)
+3.  United States Department of Transportation (DoT)
+    -   GIS Strategic Plan 2022-2024
+    -   [https://www.transportation.gov/sites/dot.gov/files/2022-06/US-DOT-GIS-Strategic-Plan-2022-24.pdf](https://www.transportation.gov/sites/dot.gov/files/2022-06/US-DOT-GIS-Strategic-Plan-2022-24.pdf)
+
+I will present the third plan above, the US DoT GIS Strategic Plan.
