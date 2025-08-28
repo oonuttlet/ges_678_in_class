@@ -1,0 +1,8 @@
+---
+title: "GES 678: GIS Project Management"
+output: 
+  md_document:
+    variant: markdown_github
+---
+
+This repository will store class notes, assignments, and homework for GES 678.

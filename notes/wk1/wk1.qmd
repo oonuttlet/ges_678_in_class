@@ -1,0 +1,142 @@
+---
+title: "GES 678: Week 1"
+subtitle: "Syllabus Week"
+format: 
+  pdf:
+    toc: true
+date: "08-27-2025"
+---
+
+{{< pagebreak >}}
+
+## Assignments
+
+### Reading Assignments
+
+-   Questions and Discussions about weekly readings, due at 6pm weekly
+
+### Final Exam
+
+-   Presentation, on December 15
+
+## Textbook
+
+Thinking about Geographic Information Systems for Managers, 4th ed. (Tomlinson, Esri Press)
+
+## Lecture
+
+### Planning is the key to success:
+
+Planning provides purpose and direction to the program.
+
+### Why GIS?
+
+-   Is GIS the solution to a problem?
+    -   Does GIS actually fit into the need? Is it the best tool for the job?
+    -   *e.g.* you would't use GIS for accounting, or for HR.
+-   Does GIS address an organizational need?
+-   Are there other solutions that better fit?
+    -   Excel is likely better for accounting.
+    -   Work order system maybe better for asset management
+-   Is GIS being used successfully elsewhere in the organization?
+    -   It's a hard sell to start using GIS, and you don't want to duplicate efforts.
+    -   To build databases, datasets, repositories, it helps to have all GIS users collaborating.
+
+### Barriers to using GIS:
+
+-   No time
+-   No budget
+-   No staff
+-   No management support or understanding
+-   Already have an older (maybe deprecated or outdated) plan
+
+### Key reasons to plan:
+
+-   No existing plan
+-   Current plan out of date
+-   Current plans do not address GIS development, may only focus on technical aspects, etc.
+    -   Could there be an older plan, which has been dropped, which can be revived?
+
+### How to make a plan to implement GIS:
+
+-   Give purpose and direction to the program
+-   Establish a framework for success and a metric to measure against
+-   Establish the program
+    -   Should it be centralized? Should other departments or entities have their own GIS specialists?
+-   Align program to the organization's mission.
+
+### 5 Ws:
+
+-   Who
+-   What
+    -   Info products
+    -   Data
+    -   Soft/hardware
+    -   Procedures
+    -   People
+-   Where
+    -   Are the workers physically on-prem?
+-   When
+-   Why
+    -   How does this align with the organization's goals?
+    -   Why use GIS to address the organizational problems?
+
+### Planning Steps (Tomlinson)
+
+1.  Strategic Purpose
+2.  Building the Foundation
+3.  Technology Seminar
+4.  Describe Information Products
+5.  Data Design
+6.  Logical DB Design
+7.  System Requirements
+8.  Cost/Benefit, Mitigation, Risk (disaster recovery) analysis
+    -   Could the project lose funding every year?
+    -   Could software updates cause issues?
+9.  Plan the implementation
+
+### Strategic Planning
+
+-   Strategic purpose of the organization
+-   Mission statement
+-   Strategic purpose of the GIS program, specifically
+
+Planning Document -- Strategic Plan
+
+-   Current state of affairs
+-   Vision of the program
+-   Measurable goals and objectives (SMART goals?)
+-   Actions to move forward with timetables
+-   Directly identifies people, resources, and equipment
+
+All of the above must be done in context of the organizational framework, and incorporated into the overall business strategy.
+
+### Elements of a Plan
+
+-   Mission Statement
+    -   Big Picture: why does your organization exist? *e.g.* Dept of Commerce has **COMMERCE** written on their building
+    -   Different statements can exist for different entities in an organization.
+        -   If so, it should tie into the overall statement
+    -   Connected to a mandate
+    -   Vision Statement
+        -   Extension of mission statement into the future
+
+### Mission Statement Examples:
+
+> "USGS monitors, analyzes, and predicts current and evolving Earth-system interactions and delivers actionable information at scales and timeframes relevant to decision-makers."
+
+> "The Census Bureau's mission is to serve as the nation's leading provider of quality data about its people and economy."
+
+> "MD State Geographic Information Ofice's mission is to 
+1. Improve the quality and lower the cost of government services, through collective investment in and effective application of geospatial data and systems and
+2. Reach beyond government by making data freely and publicly available to the fullest extent possible in consideration of privacy and security."
+
+### Guiding Principles
+
+-   Organizational values
+-   Behavior of the organization
+-   *How* you want to achieve the mission
+
+Guiding principles are often too vague and generic (e.g. Google wants to change the world)
+
+> NOTE: computer died here, but most of the rest of the discussion revolved around the upcoming assignment.
