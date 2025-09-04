@@ -1,0 +1,96 @@
+---
+title: "GES 678: Assignment 2"
+subtitle: "Due 09-10-2025"
+format: 
+  pdf:
+    toc: true
+date: "09-03-2025"
+---
+
+{{< pagebreak >}}
+
+## Reading Chapters 1-2
+
+Answer the questions from chapter 2. **What is the first step of the GIS Planning Process?**
+
+The first step of the GIS planning process is to consider the strategic purpose of the organization, and how GIS can be implemented to align with and further progress towards that goal.
+
+**Is hiring a consultant to do the planning highly recommended to make the process more efficient?**
+
+False. According to Tomlinson, if a consultant is to be employed, their role should be to walk you and your organization *through the planning steps*. The consultant should not be doing the planning themselves: they won't be the ones using the system after it's done!
+
+**Should you create a project proposal for the GIS planning process?**
+
+True. a project proposal should be created for the GIS planning process. Creating a proposal demonstrates to a steering committee or other decision-makers that the planning process deserves resources and is a worthwhile investment towards the organization's mission.
+
+**At what point during the planning process do you involve senior-level management?**
+
+Senior-level management should be informed throughout the planning process. Though they may not be technical GIS users, you need their buy-in to ensure that you can maintain funding and support. Ask them what issues they have that a GIS could solve, and educate them as you plan.
+
+**What is the final step of the GIS planning process?**
+
+The final step of the GIS planning process is planning the implementation of the GIS in the enterprise. Things begin to become more concrete—you can discuss acquisition and procurement, as well as funding sources.
+
+**Does the planning procedure you should follow depend on the type of GIS you are implementing?**
+
+True. According to Tomlinson, "the size and nature of your organization will determine which of the component stages are most relevant to your situation \[...\] you will need to understand all of the steps in the process before adapting the methodology to suit your circumstances" (p. 9). The nine steps laid out in Chapter 2 are a good baseline, and are applicable to many projects and implementations, but as the role of GIS in the organization changes, the importance of each step will vary.
+
+**Does system implementation begins with a pilot project?**
+
+False. Changes that need to be made upon implementation are orders of magnitude more expensive than changes which can be made during different stages of the implementation process, like scope and design. If you begin an implementation with a pilot project, you skip immediately to the most expensive part of the change cost curve—and since you didn't set forth any product requirements or design any infrastructure, things will inevitably have to change.
+
+**When you initially identify the name of a potential information product that the GIS will create, what other key detail needs to be recorded?**
+
+For each information product that you identify, the user must create an information product description (IPD) containing information such as data update frequency, acceptable margins of error, and the value of the product. These IPDs should be combined into a master input data list, which will drive data and infrastructure design steps.
+
+## Strategic Plan Presentation Preparation
+
+**Name and coverage area/organization of the plan.**
+
+My plan is the U.S. Department of Transportation (DOT) GIS Strategic Plan 2022-2024. As a federal agency, the organization covers the United States.
+
+**Briefly describe the organization.**
+
+DOT has responsibility over all methods of transportation in the U.S., including auto, rail, air, and other forms of transport. According to the strategic plan, "DOT’s mission is to deliver the world’s leading transportation system, serving the American people and economy through the safe, efficient, sustainable, and equitable movement of people and goods" (p. 2).
+
+**Identify and describe 5 elements it contained in common with other plans you read**
+
+1. Executive Summary
+
+-   Many strategic plans have an executive summary section, which details a few things: *why* GIS is important (and, further, why a strategic plan is important); the goals or mission statements of the organization; and how the stragetic plan will be implemented.
+    
+2. Introduction/Background
+
+-   The introduction and background sections (which are sometimes combined) are a lower-level discussion of *how* GIS is important. They often have examples of how GIS has been used in the past, or by other organizations. This can include images of maps (as demonstrated by the DOT GIS Strategic Plan), written descriptions of projects which have used a GIS (such as in the Kittitas, WA GIS Strategic Plan), or links to applications which use GIS (like the EPA's FY 23-27 Geospatial Strategic Plan). These sections are often more technical, akin to the role of an advisory committee when planning for a project, and help demonstrate the capability and value of a GIS.
+
+3. Current or Existing Conditions
+
+-   Where possible (*e.g.*, where a GIS program already exists in some form), an inventory of GIS products, users, and infrastructure was completed. In the DOT Strategic Plan, there is a discussion of:
+    -   Number of employees (total and GIS-specific), as well as staffing goals
+    -   Business units which utilize GIS
+    -   Relevant legislation and organizational policy
+    -   Relationships with external partners, such as FGDC and Esri.
+
+4. Challenges and Opportunities (or Needs Assessment)
+
+-   The DOT Strategic Plan lays out the main, specific needs that the strategic plan is meant to address. The first and most important need that is cited is staffing. Beyond staffing, there are points raised about infrastructure: "[w]hile software is generally sufficient, hardware options present challenges to daily GIS users" (p. 16). Additionally, a lack of in-house data ownership and governance, as well as organizational structure and a need for enterprise hosting were cited as needs which should be considered for implementation. Other jurisdictions completed a SWOT analysis (Kittitas Co.), and some went department-by-department and interviewed users and stakeholders to ensure that all needs were accounted for in the strategic plan (Wilmington, N.C.).
+
+5. Implementation Plan
+
+-   Finally, the DOT Strategic Plan includes an implementation plan, which lays out estimates of resources, budget, and continued training. Furthermore, it lays out who (or what groups) will be responsible for which high-level tasks, and how they will be accountable for their work (*e.g.* deadlines and cost estimates). It also lays out a communication plan—by including the components of RACI, the implementation plan ensures that there are parties responsible and accountable for all tasks, and that relevant stakeholders are informed and consulted where necessary.
+
+**What important element(s) were missing? Why were these critical to the plan?**
+
+-   There was no formal risk assessment in the DOT Strategic Plan. For as technical as it was, and with such specific information, it seems prudent that there be a discussion of the risks of different software and hardware choices. Many other GIS strategic plans include a specific risk assessment of the recommendations and plans laid out: the DOT Strategic Plan does not. If one of the proposed changes ends up breaking an organizational process or system, there is no outlined plan for recovery.
+
+**What was the best / most helpful part of the plan? Explain why.**
+
+-   The most helpful part of the plan was the explanation of why staffing is such an important part of the implementation of new GIS systems in the future of DOT. Staffing and resource constraints demonstrate a need to upper leadership, and can help build a case for a steering committee or other decision-makers. 
+
+**How successful was the plan explaining the purpose and need of GIS and as a guide towards implementation?**
+
+-   I think the plan did a fantastic job explaining the role of GIS in the organization and why the plan should be implemented. There are maps and diagrams scattered throughout which are easily digestible that demonstrate the value of GIS to the organization. I think that the missing risk analysis, as mentioned before, makes it more difficult to implement without a further understanding of how implementing changes could break the current state of DOT GIS. 
+
+**Put yourself in the position as a newly hired GIS Manager of the organization. Given this plan to implement, what would be your first action(s)?**
+
+-   Given this plan to implement, my first action would be to commission a risk analysis of some of the changes mentioned. For example, one of the goals listed is to increase in-house data creation and storage capabilities, because contacting data owners for missing data and updating requirements is difficult and time-consuming. However, storing data on-prem means that server infrastructure should be identified, and a plan should be laid out for if a server or database goes offline. This is just one example—all of the goals listed had performance metrics which would be tracked to measure success. However, there was no analysis on what the risks would be if the goals were unsuccessful other than budgetary impact.
