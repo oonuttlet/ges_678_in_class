@@ -3,7 +3,6 @@ title: "GES 678: Week 2"
 subtitle: "Roles and Responsibilities of a Project Manager"
 format: 
   pdf:
-    keep-tex: true
     toc: true
 date: "09-03-2025"
 ---
