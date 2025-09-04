@@ -1,0 +1,197 @@
+---
+title: "GES 678: Week 2"
+subtitle: "Roles and Responsibilities of a Project Manager"
+format: 
+  pdf:
+    keep-tex: true
+    toc: true
+date: "09-03-2025"
+---
+
+{{< pagebreak >}}
+
+## Lecture
+
+### Governance
+
+Within every organization, there is *someone* who helps make sure everything works together. 
+
+Governance is a formal structure for organizations to ensure that IT investments support business objectives.
+
+It is the process of managing and controlling key IT capability decisions to improve IT management, ensure compliance, and increase value from technology investments.
+
+### Components of Governance
+
+-   Strategic alignment
+    -   Are we all doing the same thing for the same reason?
+-   Value delivery
+    -   Are we doing IT for IT's sake? What value do we deliver?
+-   Performance management
+    -   Are we meeting our goals? How is this measured?
+-   Risk management
+    -   How do we mitigate what goes wrong when it goes wrong? How can we identify risks ahead of time?
+    
+### Governance Structures
+
+-   Steering Committee
+    -   Strategic focus (higher-level)
+    -   Senior leadership/management
+    -   Holds some direct funding capabilities.
+    -   Direct, set, and enforce policies, priorities, and goals.
+    -   Coordinates external support, such as grant application and citizen buy-in.
+-   Advisory Group/Committee
+    -   Peers/contemporaries/stakeholders
+    -   Not decision making; more of a recommending group.
+    -   Identify goals, set objectives, gather information, and bolster internal support.
+    -   Lower-level (e.g. we need to revamp *this* process, we need to improve our web presence).
+-   External Groups 
+    -   Governing agency/organization
+    -   Professional organizations
+    -   Standards Committees
+    -   Citizen Groups
+    -   Other stakeholders
+-   Project Management Office (PMO)
+    -   Coordinates among and between projects, including resources, people, and schedules.
+    -   Often seen in larger organizations, where multiple projects occur simultaneously.
+    -   Reduces duplication of efforts across organization.
+    
+### Exercises
+
+Scenario 1
+
+: You start as a new GIS manager, whose team is working with deprecated software, old on-prem servers, and older techonology mapping software. No updates have been budgeted or planned. What are the roles of:
+
+-   Steering Committee
+-   Advisory Committee
+-   External Groups?
+
+A: 
+
+: The steering committee needs to know how and why the upgrades will advance the organization's mission. The advisory committee will provide *advice* and recommendations to identify specific objectives and more technical information related to different parts of the upgrade. External groups will provide feedback, whether solicited or unsolicited, which the steering committee can use to make their final decision on which systems to upgrade (read: fund) when.
+
+**Q:** Does the steering committee pick the participants of the advisory committee?
+
+**A:** It depends on what the organization is and does. The GIS manager can recommend certain people be on the advisory committee, or the steering committee can ask the GIS manager to pick, or a mixture of both.
+
+Scenario 2
+
+: The GIS team is planning its next web map application and needs to select among 3 requests. What would be the role of the three groups?
+
+A:
+
+: The steering committee may not have as much of a role because this is a lower-level question. It may be smaller, more detached, or depend more specifically on the recommendation of the advisory committee. The advisory committee would serve more of a peer review role; checking each others' work and doing research with one another before passing a final recommendation to the steering committee. The steering committee will also ensure that the procurement policy is being followed by the advisory committees and the vendors. 
+
+> **Note that governance is all still part of Tomlinson's Step 1; consideration of the strategic purpose.**
+
+### Roles and Responsibilities
+
+Each project member should have an assigned role, which roles should be assigned up front. Likewise, each task and activity should have a defined role. These roles may change during a project, but they always need to be clearly defined to the team.
+
+### RACI
+
+RACI is a framework which defines the activities and decision-making authorities.
+
+Responsible
+
+: refers to the completion of a specfic task or activity. This could be documentation, making a decision, or product development or deployment.
+
+Accountable
+
+: refers to the responsibility of the product owner to ensure accountability. They must address issues, deal with the impacts of decisions and results, and focus on the end results of the task.
+
+Consulted
+
+: refers to someone who advises on tasks and activities. People consulted often have opinions or knowledge that benefit the project and are often on the advisory committee.
+
+Informed
+
+: refers to keeping the team up to date on tasks and progress. This includes updates on status, completion of milestones, and schedule adherence. It is one-way communication, such as press releases and announcements.
+
+{{< pagebreak >}}
+
+**RACI Chart Example**
+
+```{r}
+#| label: tbl-raci-example
+#| echo: false
+#| message: false
+library(tidyr)
+library(stringr)
+library(dplyr)
+library(tibble)
+dat <- data.frame(Task = c("Define Scope",
+                           "Data Collection",
+                           "Application Development"),
+                  Executive = c("A", "I", "I"),
+                  `GIS Manager` = c("R", "A/C", "A/I"),
+                  `Data Manager` = c("I/C",
+                                     "R/C",
+                                     "C/A"),
+                  `Tech Architect` = c("C/I",
+                                       "C/R",
+                                       "C/I"),
+                  Developer = c("I/C",
+                                "I/C",
+                                "R"),
+                  `Business Analyst` = c("C/I",
+                                         "I/C",
+                                         "I/C"))
+row.names(dat) = dat[,1] |> str_replace_all("[.]", " ")
+dat_long <- t(dat[,-1]) |>
+  as.data.frame() |>
+  rownames_to_column("Role") |>
+  mutate(Role = str_replace_all(Role, "[.]", " "))
+
+dat_long |> kableExtra::kable() |> kableExtra::kable_styling()
+```
+
+RACI Chart Exercise
+
+: The GIS team has been assigned the project by the City Manager to work with Public Relations office to create an adopt a hydrant site. The public can register online to “adopt” a fire hydrant by keeping it clear of snow
+and debris and report damage. The hydrant data is owned and maintained by the Fire Department. IT manages the City website technology, but PR manages
+web content. Develop a RACI chart for the project, include all stakeholders and their roles.
+
+```{r}
+#| label: tbl-raci-exercise
+#| echo: false
+#| message: false
+library(tidyr)
+library(stringr)
+library(dplyr)
+library(tibble)
+dat <- data.frame(Task = c("Define Scope",
+                           "Develop Site",
+                           "Collect Data",
+                           "Maintain Data",
+                           "Maintain Assets"),
+                  `City Manager` = c("A", "I", "I", "I", "I"),
+                  `GIS Manager` = c("R", "A/C", "I/C", "A", "I"),
+                  `GIS Team` = c("I",
+                                 "R",
+                                 "I/C",
+                                 "I",
+                                 "I"),
+                  `Public Relations` = c("I",
+                                         "R",
+                                         "I",
+                                         "I",
+                                         "I"),
+                  Public = c("I",
+                             "I",
+                             "I",
+                             "R",
+                             "R"),
+                  `Fire Department` = c("I/C",
+                                        "I/C",
+                                        "R/A",
+                                        "R/A",
+                                        "R/A"),
+                  `IT Department` = c("I","R","I","I", "I"))
+row.names(dat) = dat[,1] |> str_replace_all("[.]", " ")
+dat_long <- t(dat[,-1]) |>
+  as.data.frame() |>
+  rownames_to_column("Role") |>
+  mutate(Role = str_replace_all(Role, "[.]", " "))
+
+dat_long |> knitr::kable(escape = FALSE) |> kableExtra::column_spec(2:5, width = "2cm")
+```
