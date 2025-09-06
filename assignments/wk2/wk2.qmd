@@ -94,3 +94,51 @@ DOT has responsibility over all methods of transportation in the U.S., including
 **Put yourself in the position as a newly hired GIS Manager of the organization. Given this plan to implement, what would be your first action(s)?**
 
 -   Given this plan to implement, my first action would be to commission a risk analysis of some of the changes mentioned. For example, one of the goals listed is to increase in-house data creation and storage capabilities, because contacting data owners for missing data and updating requirements is difficult and time-consuming. However, storing data on-prem means that server infrastructure should be identified, and a plan should be laid out for if a server or database goes offline. This is just one example—all of the goals listed had performance metrics which would be tracked to measure success. However, there was no analysis on what the risks would be if the goals were unsuccessful other than budgetary impact.
+
+## Reading Chapters 3-4
+
+Read Tomlinson Ch 3,4
+
+Briefly (2 pages) answer the following questions
+
+**What is the difference between a mission statement, vision statement and a goal?**
+
+A mission statement is a statement which describes what an organization is doing *right now* to ensure that all of their programs are aligned. A vision statement, on the other hand, is more comparable to a five- or ten-year plan: much less concrete, and more of a lofty dream of an ideal future. Goals are smaller and more specific, and serve to advance the mission in accordance with the vision. While a vision statement is intentionally lofty and oftentimes immeasurable, goals provide a way to measure progress in a more reasonable timeframe. By setting and pursuing goals which further the organization's mission (and, thus, its vision), employee and process performance can be measured; stakeholders can be informed on progress; and, with smaller milestones, mission alignment can be frequently reevaluated.
+
+To create a vision statement, an organization should look into the distant future. Obviously, there's no way to predict what will happen in the world in that time, so vision statements are often quite nebulous and, in some cases, almost boastful. By assuming the role of the organization in an ideal world at some point down the line, the vision statement provides an optimistic framework for the mission statement to live within.
+
+A mission statement, as described above, is more specific than a vision statement, and provides context to what the organization is doing at present. The mission statement itself aligns with the vision statement while discussing lower-level details on *how* the organization will fulfill its vision in the future. For example, if a brand's vision is to become the most transparent company in the world, then its mission may describe that data will be made accessible to the public, or that their earnings reports will contain all necessary information, or that they implement public feedback into their decisions.
+
+Goals are within the mission statement hierarchy. They provide very low-level, specific ways that the mission and vision of the organization will be furthered. Often, organizations use SMART goals:
+
+S
+
+: pecific: the goal should focus on one aspect of the mission, and should have a listed measure of progress
+
+M
+
+: easurable: the measure of progress listed above should be a quantity that's able to be measured
+
+A
+
+: ttainable: the goal should be something that's not too easy to achieve, but it also should not be impossible to achieve
+
+R
+
+: ealistic: in tandem with attainable, the goal should be able to be reached with current resources
+
+T
+
+: imely: by assigning a deadline to a goal, motivation is created and progress can be better tracked.
+
+These goals can be distributed to different departments within the organization; they provide day-to-day level task guidance to employees. By ensuring that departments and personnel have goals which align their work with the mission and vision of the organization, progress can be measured and reported easily.
+
+**What is the GIS Manager's job in the planning proposal process?**
+
+The GIS manager has several jobs during the planning proposal process. Given that the goal of a planning proposal is to get buy-in from upper management (*e.g.*, a steering committee), the first and arguably most important role of the GIS manager is to build relationships with senior management—Tomlinson suggests even the CEO. Getting buy-in from senior management is critical, as they control the funding and resources within the organization. Without their approval, GIS planning and implementation will go nowhere.
+
+After securing the will of senior leadership, the GIS manager must build the case that planning for implementation is worth it. Tomlinson explains that as the price of enterprise GIS has decreased over time, the price of planning has not. Thus, the share of costs which are allocated to planning has increased relative to the total cost of implementation: it's essential to make the case that planning for implementation will save money in the long run. In the building of this case, the GIS manager should understand the current needs of different departments and teams within the organization, and how GIS can deliver products that would fulfill these needs. They should be able to ask probing questions to understand and translate non-GIS-user language into specific, actionable issues which GIS data and software can solve.
+
+In the planning proposal, there should be explanations of accountability structures to bolster performance management and tracking. The foundation of this framework should be laid out in the planning proposal; by having a system in place to ensure that the plan will be followed and carried out properly, the plan is more likely to gain buy-in and funding. One example of an accountability structure is annual performance reviews: if the goals laid out in the planning proposal are met on-time, then the positive feedback can be brought into existing organizational structures and processes and incentivize employees to complete tasks in a timely fashion.
+
+After these requirements have been met, the GIS manager can incorporate them into a document, which will be presented to senior leadership as the planning proposal. By having the above information, the GIS manager can make a compelling case to management that it is worth it for the organization as a whole to plan the GIS implementation, even though advancements in technology give the illusion that it's okay to dive right in.
