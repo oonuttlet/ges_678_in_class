@@ -142,3 +142,29 @@ After securing the will of senior leadership, the GIS manager must build the cas
 In the planning proposal, there should be explanations of accountability structures to bolster performance management and tracking. The foundation of this framework should be laid out in the planning proposal; by having a system in place to ensure that the plan will be followed and carried out properly, the plan is more likely to gain buy-in and funding. One example of an accountability structure is annual performance reviews: if the goals laid out in the planning proposal are met on-time, then the positive feedback can be brought into existing organizational structures and processes and incentivize employees to complete tasks in a timely fashion.
 
 After these requirements have been met, the GIS manager can incorporate them into a document, which will be presented to senior leadership as the planning proposal. By having the above information, the GIS manager can make a compelling case to management that it is worth it for the organization as a whole to plan the GIS implementation, even though advancements in technology give the illusion that it's okay to dive right in.
+
+## GIS Manager Job Description – Comparison and Analysis
+
+Review the GIS Manager job descriptions posted by your classmates in the class discussion.
+
+Compare and contrast the job description you submitted with at least a few of the others.
+Reflect on both the similarities and differences between your posting and others.
+In-Class Discussion (Prepare a 5–6 Minute Summary):
+
+Be ready to speak briefly about the GIS Manager job description you posted and how it compares to others. As you prepare, consider the following questions:
+
+**What are 2-3 common elements contained in your job description with the others?**
+
+The most common element that I saw across most postings shared was familiarity with GIS, but particularly the Esri GIS ecosystem. Another element that I saw in common with many other job postings was the responsibility to create maps upon request for other departments; this seems to me like something that would be delegated to a GIS analyst or technician, as opposed to a GIS Manager. One thing that was common with *some* roles but not others was the possession of a GISP certification. I think this particularly makes sense for a manager—the contribution portions of the GISP really lend themselves to managerial work.
+
+**Was there a specific skill, responsibility, or experiences in your job description that stood out that was not in other descriptions?**
+
+One thing that was in my description but not in very many others (which I found surprising!) was development of documentation. In my eyes, this is one of the more important roles of a GIS manager: by ensuring that GIS products created under one's purview have sufficient documentation (at minimum a data dictionary plus FGDC-schema metadata), one promotes transparency and avoids "brain drain" and other loss of information.
+
+**Do you think the skills match the responsibilities?  Why or why not?  For example, it asks for years of application development experience but responsibilities focus on managerial skills.**
+
+I think the skills match the responsibilities, for the most part. In order to manage the creation of applications and implementation of new systems, the GIS manager needs to be familiar with the available options and software. The requirements don't have specific timeframes attached to them, which is a plus in my eyes. It helps applications get through screenings which may otherwise filter out good candidates based on an arbitrary number (sometimes picked by HR). I do wish there were a bit more of a focus on managerial skills in the requirements—the closest things are the ability to maintain professional relationships and communicate both in writing and orally, which I don't think make a good manager on their own. 
+
+**Did your job posting include a salary range?**
+
+The salary range for the position I found was $110,500-\$122,500. This seems commensurate for the requirements of the position, particularly in the public sector, where benefits make up a sizable part of compensation compared to the private sector. 
