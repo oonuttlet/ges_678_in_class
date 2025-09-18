@@ -1,0 +1,394 @@
+---
+title: "GES 678: Week 2"
+subtitle: "Presentation of Strategic Plans"
+format: 
+  pdf:
+    toc: true
+date: "09-17-2025"
+---
+
+{{< pagebreak >}}
+
+## Presentation Notes
+
+Guiding Question:
+
+: Based on your research and discussion in class, identify the top 5 "must haves" in a strategic plan. Explain in a few sentences for each item why these are critical to the plan's audience and the potential impact of not having these in the plan.
+
+My five things: 
+
+1. Executive Summary
+2. Introduction/Background
+3. Current or Existing Conditions
+4. Challenges and Opportunities (or Needs Assessment)
+5. Implementation Plan
+
+Other things of note, seen in presentations:
+
+### Niki: Montgomery Parks 
+
+Survey tables were provided, with LOTS of data
+
+Common elements:
+
+-   Goals
+    -   Very clearly enumerated goals; made up most of the plan
+-   Analysis of Needs
+    -   Only available as a link to a secure file; not public
+    -   Petersburg, ON surveyed employees on what softwares they thought they needed
+-   Action Items
+    -   Under each goal, most of the report was made up by action items
+    -   Intended for internal use; not as useful as the intro sections (especially for the public)
+-   Schedule
+    -   Set up as a Gantt chart, laid out deadlines for action items and goals
+-   Staffing
+    -   For each action item, there was a discussion on if necessary staffing was available
+    
+Lacking elements:
+
+-   Skimpy text
+    -   Not much discussion of why the plan itself was useful
+-   Metrics
+    -   No discussion of what metrics would be due by which deadline
+-   Budget/funding/resources
+    -   No discussion of necessary resources
+-   Acronyms
+    -   Too many, not defined
+
+Best aspect: 
+
+-   Scheduling, particularly how it was laid out in the Gantt-esque chart per action item
+
+First action:
+
+-   Work to identify SMEs, learn their needs, and inventory their data
+
+Questions:
+
+Any mention of external stakeholders?
+
+: No, just discussion of internal (within county) stakeholders and participants
+
+Was it appropriate to be shared?
+
+: Sometimes, it's required. Montgomery Parks specifically includes documents in their definition of open data.
+
+Professor Schlee: This may be considered more of a "project plan" than a strategic plan; it wasn't really looking into the future with a vision or mission.
+
+### Angela: Wayne County, NY
+
+Common elements:
+
+-   Introduction
+    -   Why and how it's useful
+-   Mention of mission, vision, and goals
+    -   Goals contained tasks or objectives, depending on the plan
+-   Focus on community and transparency
+    -   Emphasis on open data
+-   Creates committees and subgroups
+    -   Interdepartmental collaboration was emphasized
+-   Living document
+    -   Discussion of revisitation and updates, or creation of a progress report for information. This allows flexibility and pivoting as an organization
+    
+What set Wayne County apart:
+
+-   Phased approach, with multiple easy-to-access previous reports
+    -   DOI and EPA both just put the plan out on a bare bones website
+-   Wayne County used a consultant to carry out their plan, with 6 pillars of GIS sustainability
+-   Used SMART concepts when creating goals
+-   ROI and Cost Analysis
+    -   Broke down cost by year, which is useful in a phased plan
+    -   High-level and low-level explanation of tasks
+
+What's missing:
+
+-   No explicit mention of GIS mission, just IT as a whole
+
+First steps:
+
+-   Present to decision makers (steering/executive committee)
+-   Once budget is approved, meet with technical committee and user group to prioritize tasks and goals
+    -   Think of other guiding questions (living document)
+    -   Assign tasks to committees and user groups
+        -   Create subgroups if necessary
+-   Create a progress tracking tool
+-   Create SOPs and trainings for all GIS users
+-   Reassess, report, and repeat
+
+Questions:
+
+Opinions on hiring a consultant?
+
+: If there was no GIS department (there was no mission statement in the plan!) then having a consultant could be useful due to minimal in-house experience.
+
+In the ROI analysis, where did they see the investment coming from and benefiting?
+
+: It may not be in revenue, but they can save costs on contractors, time, or increase intelligence.
+
+### Beth: Pennsylvania NextGen 911
+
+NextGen 911 is a method to locate a caller using wifi/cell instead of landline.
+
+Common features:
+
+-   Mission statement/Defining purpose
+-   Background/Current state
+-   Goals and Priorities
+    -   Strengths: action steps and anticipated outcomes
+    -   Each goal has background on current state of affairs
+    -   Outcomes allow for measurement and benchmarking success
+        -   *e.g.* all new addresses will be in accordance with NG911 standards statewide
+-   Timeline/Roadmap
+-   Appendix
+
+Missing features:
+
+-   Equipment/resource information
+    -   They're getting information from 60+ counties statewide
+-   Not much of a discussion of the purpose and need for an updated GIS
+
+First steps:
+
+-   Survey 911 call centers to see their GIS staffing needs
+-   Engage with PA counties regarding addressing standards
+-   Align PA layers with surrounding jurisdictions
+
+Questions:
+
+Was there a timeline to the plan?
+
+: Yes, there was a chart included with years, but not specific dates
+
+Was there a section discussing necessary training?
+
+: Yes, there was mention of training employees in new processes and standards. They discussed a need for all reporting agencies to understand best practices.
+
+### Emilia: USDA
+
+-   Nothing was missing from the strategic plan; all were addressed at least once
+-   Clear timelines were given for goals and tasks
+
+Common elements:
+
+-   Cost/ROI analysis
+-   Current state/tech baseline
+-   SWOT analysis
+    -   Largest threats were staffing and funding
+-   Want to improve and encourage community engagement through GIS
+-   Emphasize collaboration and support from higher-ups in relevant agencies
+
+Notable differences:
+
+-   No breakdown of org structure and capacity by department
+-   No discussion of "trends impacting GIS"
+-   No discussion of difficulty in acquiring and sharing data (internal and external)
+
+Highlights:
+
+-   Implementation Approach
+    -   Concise, maybe too concise
+-   Expansion of data access across USDA, building on existing business unit strengths
+-   The plan was very successful in explaining the purpose and need for GIS
+    -   Goal specifically dedicated to increasing understanding of value of spatial info and education/training that will be used to do so
+    -   Breaks into sections: Education, Adoption and Use, Funding and Staff
+    -   No discussion of how GIS can impact external stakeholders (public)
+    
+First steps:
+
+-   Inventory of current GIS technology and understanding to establish resources and priorities
+-   Establish a baseline of software and hardware to be used across the organization
+
+Questions:
+
+Where there any benefits or challenges related to achieving their goals?
+
+: This was covered at a higher level in the SWOT analysis, but nothing specific.
+
+### Krishna: Indiana GIO
+
+Common elements:
+
+-   Executive Summary
+-   Current Situation
+-   Vision
+-   Goals, objectives, and recommendations
+-   Timelines
+
+Missing elements:
+
+-   Mission Statement
+-   Guiding Principles
+-   Employee Development
+
+Best and most useful parts of the plan:
+
+-   Used a tested and proven methodology for collecting info
+-   Created PDF and StoryMap
+-   Goals with rationale, benefits, and recommendations
+
+Questions:
+
+Was there any mention of funding sources?
+
+: Not specifically.
+
+### Connor: Connecticut
+
+Similarities:
+
+-   Mission and vision statements
+-   Strategic goals
+-   SWOT
+-   Identification of stakeholders and impacts
+-   Evaluation of current status
+
+What was missing:
+
+-   Budget/funding
+    -   Lacks funding flow, relies on one-off funding
+    -   Listed as a strategic goal
+    -   Important to maintain existing datasets and creating new ones
+-   Connection to private sector
+    -   Scored low on internal and external review
+    -   Good for outsourcing collection of data; identifies need for surveyors
+-   Employee development
+    -   Acknowledges lack of education
+    -   No concrete training plan, just a light touch
+    
+Best part:
+
+-   Goals
+    -   Specific and measurable, and had good justifications
+    -   Broken into sub-goals or tasks
+    -   Target previously identified weaknesses
+
+The plan did a good job explaining the purpose and concept of GIS, and holds itself and outside parties accountable to making GIS effective.
+
+-   Highlights the community that benefits from state GIS
+-   Explains ROI on an accessible GIS database
+
+It did not do a good job as a guide; it needed more definitive timelines and measurements.
+
+First actions:
+
+-   Create deadlines and time targets
+-   Create a sustainable funding model
+-   Implement training for state employees
+
+Questions:
+
+Does the plan discuss consultants they will rely on for implementation?
+
+: Yes, but there is no explanation of how the plan will continue to be followed.
+
+Would you want to reduce the dependence of the department on the consultants?
+
+: Yes, but it would go hand-in-hand with acquiring funding and staffing.
+
+### Drishti: New Bern, NC
+
+Common elements:
+
+-   Vision and Goal
+-   Governance Structure
+-   Stakeholder Engagement
+-   Data Strategy
+-   Implementation Roadmap
+
+All three plans investigated relied on a consultant in some form.
+
+Missing elements:
+
+-   Less detail on funding sustainability
+-   Less emphasis on citizen and public access tools
+
+Most helpful parts:
+
+-   Clear purpose and integration with existing processes and systems
+-   Detailed governance and stakeholder model
+-   Practical and realistic funding models
+-   Needs assessment
+    -   Includes SWOT analysis
+-   Success stories
+-   Pillars of GIS framework
+
+As a GIS manager:
+
+-   Get involved and not leave everything to a consultant
+-   Bring back governance groups that had already existed
+-   Invest in people and communication
+-   Balance quick wins with long-term vision
+-   See workflows and data
+
+### Lauren: KELT (Kennebec Estuary)
+
+
+Common elements:
+
+-   Introduction
+-   Mission and Vision
+-   Values
+-   Broad goals
+-   Sub-goals
+
+Missing elements:
+
+-   A specific GIS plan (this is the GIS section of an overall strategic plan)
+-   The who
+    -   There is no specification of who is or will be responsible for GIS in the future after the implementation of the plan
+
+Most effective parts:
+
+-   All goals tied back to the mission and organizational values
+    -   Why and how was always clear
+
+Successes?
+
+Explaining the purpose and need of GIS: **Low**
+
+They could take the opportunity to discuss how GIS could further their value of community engagement and accessibility
+
+Plan as a guide for implementation: **Low**
+
+Questions:
+
+Where there any mentions of external agencies?
+
+: Yes, GIS could have been used to provide products to local municipalities.
+
+What softwares were mentioned?
+
+: Landscape Conservation software was mentioned, which is a lightweight, browser-based GIS.
+
+### Liam: WVDOT
+
+Common Elements:
+
+-   Vision and Mission Statements
+-   Defined Goals and Objectives
+-   Stakeholder engagement/Needs assessment
+-   Data management and strategies
+-   Implementation roadmap, including timelines and deadlines
+
+Missing elements:
+
+-   Limited performance metrics defined
+-   Weak funding and resource planning
+-   Minimal public engagement strategies
+-   Lack of training and workforce development
+    -   No specific information other than "expand employee training opportunities"
+
+Best parts:
+
+-   Implementation roadmap
+-   Alignment with federal reporting and standards
+
+Questions:
+
+Examples of previous GIS products?
+
+: No pictures. The roadmap was a flowchart, but that does not really demonstrate the utility of GIS.
+
+Any discussion of ROI?
+
+Who are stakeholders?
