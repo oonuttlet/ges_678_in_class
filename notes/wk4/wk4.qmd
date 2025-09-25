@@ -1,0 +1,321 @@
+---
+title: "GES 678: Week 2"
+subtitle: "Presentation of Strategic Plans, cont."
+format: 
+  pdf:
+    toc: true
+date: "09-24-2025"
+---
+
+{{< pagebreak >}}
+
+## Presentation Notes
+
+### Peter: GIS Colorado
+
+Things in common:
+
+-   Clear Executive Summary
+    -   Clear vision, mission, goal statements
+-   Emphasis on online outreach
+    -   Used Listserv to provide support and distribute event information
+-   Collaboration with other GIS Organizations
+-   Modernization of website
+-   Developing a marketing strategy
+    -   Attempt to attract sponsors to gain resources
+
+Missing Elements:
+
+-   No delegation of tasks to achieve goals
+
+Helpful Parts:
+
+-   Listed recently achieved goals
+    -   Increased training
+    -   New website
+    -   More partnerships
+    -   Increased social media presence
+    
+Was the plan successful?
+
+-   Goals have been implemented properly
+
+What if the plan was assigned?
+
+-   Persuade people to join their organization
+
+### Paige: Newport Beach
+
+Common Components:
+
+-   Mission Statement
+-   Goals
+-   Current state of GIS program
+-   Challenges and Successes
+-   Plan to reorganize data
+
+Explaining the need for GIS:
+
+-   Plan was successful; goes into detail on how GIS is used in the field
+
+Best part of the plan:
+
+-   Recommendations under each section of the plan
+-   Allow readers to see what the organization plans to do in the future
+
+Implementing GIS:
+
+-   Discussion of transition from GeoMap
+
+First actions:
+
+-   Go over plan and goals with staff
+-   Ensure organization has proper software and hardware
+-   Construct a timeline for implementation
+-   Check with city officials to ensure city needs are being met
+-   Read past plans to see what changes have been made/are currently being made
+
+### Sef: Champagne and Daishiki Traditional Territory
+
+Common elements:
+
+-   Visions and objectives
+-   Inventory and assessment of data
+-   Monitoring and adaptive management
+-   Stakeholders and use considerations
+
+Missing:
+
+-   SMART Goals
+-   Timelines
+
+Successes:
+
+-   Lacks required datasets for what it proposes
+-   Lacks resources needed or implementation
+
+First steps:
+
+-   Document and audit existing data
+-   Meet with stakeholders to clarify expectations
+-   Build geodatabase
+-   Collect field data
+-   Data maintenance and updates to plans and maps
+
+Questions:
+
+**What gaps did this plan identify?**
+
+Location-wise (?) and not having programs that are up-to-date.
+
+**What year was this? Were there any prior plans?**
+
+2004; it was their first time creating a strategic plan.
+
+**Did you see anything that they have implemented until now, since this was an older plan?**
+
+Did not see anything implemented.
+
+**How far along are they with the GIS work?**
+
+Did not find out, but couldn't have been too far.
+
+### Vrinda: DOI
+
+Common Elements:
+
+-   Mission and Vision Statements
+-   Guiding Principles and Goals
+-   Helpful Figures
+-   Intro on importance of GIS
+-   Details how objectives lead to goals
+
+Most helpful aspect:
+
+-   Cause-and-effect of objectives and goals
+
+Missing elements:
+
+-   No mention of tools or stakeholders
+-   No mention of gaps that GIS can fill
+
+Success of plan in implementation:
+
+-   Good job explaining need of spatial data and how it will improve management
+-   Mentions internal groups which will work together
+
+First steps:
+
+-   Identify tools and software
+-   Create specific training plans for employees
+
+Implementation depends on administration; goals and vision have changed since 2020 Strategic Plan.
+
+Questions:
+
+**This was their first GIS plan; does it mention current state?**
+
+No, not other than basic descriptions of the data they have.
+
+**Was there a timeline?**
+
+No timeline was given; this may also be related to the shifting administrations. It was only a 10-page, very high-level plan.
+
+**Any mention of funding or resources?**
+
+No; other strategic plans thank administrations for funding the plans themselves.
+
+**Do you think the plan was created as a response to the flip-flopping of other strategic plans?**
+
+Good question, makes sense, unsure.
+
+### Jacqueline: Massachusetts
+
+Missing elements:
+
+-   No SWOT analysis
+
+Most helpful sections:
+
+-   Information about goals
+    -   Rationale
+    -   Benefits
+    -   Objectives
+    -   Implementation Considerations
+    -   Deliverables and Milestones
+
+-   Preliminary research
+    -   Description of various organizations and what its roles will be
+    
+Success:
+
+-   Researched and well-thought-out
+-   Explained rationale and explained steps for proceeding
+-   Goals are broader than other plans
+-   Could have benefited from being split into two documents
+
+First steps:
+
+-   Look to hire a GIO to lead collaboration
+-   Help MaGICC convene as official entity
+-   Ensure there is a specific person to lead each group of initiatives
+
+Questions:
+
+**Did the plan mention any other programs this was based on or was it all original?**
+
+The latter; this has not been tried in other jurisdictions.
+
+{{< pagebreak >}}
+
+## Lecture
+
+### Housekeeping
+
+-   Discuss GIS Strategic Plans
+-   Read Tomlinson Ch. 4
+
+### Planning for the Plan
+
+-   Planning project proposal
+-   Assemble your GIS team
+    -   Not necessarily technical
+
+Benefits of planning the GIS project:
+
+-   Obtain commitment of staff, funds, resources
+-   Organizational commitment
+-   Management support and buy-in
+    -   Should start at immediate management; can pass through mid-management on way to senior management and decision makers
+
+Odds are, you don't work for an organization that'll just throw you money for GIS.
+
+### The "What" of Project Plans
+
+-   Present business case
+-   Informational
+-   Schedule/Budget/Resources
+-   Sets goal of project
+    -   Seeking approval
+    -   Secure funding and support
+-   Define scope
+
+Considerations:
+
+-   Planning is often 10% of project resources
+-   GIS projects are often heavier on data than on hardware and software
+
+### Proposal Components
+
+-   Description/Background
+    -   Assert the problem, discuss the benefits of the plan
+-   Situational Analysis
+-   Process
+-   Benefits
+-   Cost estimates
+-   Hardware/software
+-   Approximate timetable
+
+### Planning Stages
+
+-   Description
+    -   Background
+    -   Objectives
+    -   Deliverables
+
+-   Requirements Study
+    -   Preparation
+    -   Needs Assessment
+    -   System Scope
+
+-   Conceptual Design
+    -   Database
+    -   Tech assessment
+    -   Hardware
+    -   Software
+
+-   Implementation
+    -   Cost/benefit
+    -   Risk registry
+    
+### Team Assembly
+
+-   Planning Team
+-   Enterprise Planning Team
+-   Management/Steering Committee
+
+These may not comprise all your technical folks. They may have trouble thinking organizationally. *e.g.* your role is not just your role in your department; it's your role in the organization as a whole.
+
+Roles of the GIS manager on the planning team:
+
+-   Project manager
+-   Subject matter expert
+-   Program manager
+-   Liaison between steering committee and staff
+-   Organizer
+-   Leader
+-   Change agent
+
+### Anticipate Management Questions
+
+-   What is the departments' role?
+-   What time and resource commitments are necessary?
+    -   What staff are needed and how long?
+    -   Direct costs?
+    -   Timetable?
+-   Anticipated benefits
+-   Cost savings
+
+### Timelines
+
+-   4-8 months for regional, local, department, small municipal
+-   Staff time: 6-7 months
+-   Leader's (you!) time: 75%
+-   2-6 days per information product
+-   Impact on almost all levels of staff
+
+### Next Class
+
+-   Chapter 5-6
+    -   Technology Seminars/Requirements Gathering
+    -   Information Products
