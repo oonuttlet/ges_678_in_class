@@ -1,0 +1,54 @@
+---
+title: "GES 678: Assignment 3"
+subtitle: "Due 10-01-2025"
+format: 
+  pdf:
+    toc: true
+date: "09-27-2025"
+---
+
+{{< pagebreak >}}
+
+## Reading Chapter 5-6
+
+Read Tomlinson Ch 5,6
+
+Briefly answer the following questions.
+
+**In order of your importance, name the 3 things to achieve from a technology seminar.**
+
+1. A list of information products
+
+This is far and away the most important aspect of a technology seminar. By discussing what different departments need from a GIS in the seminar setting, ideas can cross-fertilize and the utility of GIS is reinforced. Because you (and management) want the system to be useful across the organization, it's very important to cast a wide net when identifying product opportunities. Identifying information products at this stage also allows for better understanding of how GIS can slot into existing business practices and make them more efficient or useful.
+
+2. Educate participants and establish a shared vision of GIS
+
+This is important because many users in the technology seminar may not be GIS experts (or even novices!). For the information products to be realistic and useful, it's important that participants understand what GIS can and can't do, and how products can be more than just maps. Tomlinson discusses that a brief introduction of basic spatial operations and terminology is critical at this step to ensure that everyone is speaking the same language throughout the planning process.
+
+3. Gain support and establish a good working relationship
+
+Hopefully, some of this has already been done before the technology seminar. However, it can be difficult to convince other parties that GIS can make their processes more efficient: they may be uncomfortable with change, or worry they don't have the requisite expertise or knowledge. By emphasizing that you want to work *with* them and attempt to integrate GIS into their existing processes with specific information product examples, you can build more organizational buy-in and begin to foster relationships with other business units.
+
+**What is the importance of Information Product Description (IPD)?**
+
+IPDs are crucial to the planning process. To this point, descriptions of utility and efficiency provided by a GIS have been able to be more nebulous: an IPD puts exactly what needs to be done, for every different product, into writing. Tomlinson writes, "IPDs are the tools you'll leverage to gain approval for spending money on GIS hardware, software, and data" (p. 39). These documents should be extremely specific; they should detail the title, point of contact, and output requirements. They can include sketches, frameworks, and flowcharts to demonstrate how the product will fit into a process.
+
+As the IPD matures, the specific GIS steps necessary to create the product will need to be written out. This will allow a manager to analyze the processing complexity of the product, and then the display complexity and frequency of use. All of these listed requirements must be documented for each IPD: this allows for a more specific estimate of resources and allocation of hardware and software.
+
+Finally, the IPD will contain information about error tolerance and wait time, and then compare current conditions against the planned product in order to conduct a benefit analysis. How much faster can a GIS make a process? How long does it currently take for an employee to complete the process manually? What is the error rate under the current process? GIS can help with all of these issues.
+
+**List the 4 components of a Master Input Data List (MIDL)? Why is the MIDL important.**
+
+The four components of a MIDL are:
+
+1. Data identification details
+    -   This section describes how each required input dataset will be identified, to ensure that data is not input to the wrong product or tool.
+2. Data volume considerations
+    -   This section describes how different sizes of data will be stored. Large data could be stored in the cloud, while smaller data could be stored on-prem. 
+3. Data characteristics
+    -   This section describes how the data is currently structured. It can be used to guide database design and infrastructure, and how this data could be manipulated or cached to increase response speeds.
+4. Data availability and cost
+    -   This section describes how data will be updated or procured. Some data will need to be purchased, some will need to be automated, and some will need to be converted to be in the proper format for the product to use.
+    
+All of these components are crucial to ensure data interoperability and product utility. If one dataset is improperly stored or not cached, it could slow down the entire operation, reducing the benefits of the information product. It also serves as the basis for metadata and documentation of datasets, which is only becoming increasingly important as datasets grow and fragment.
+
