@@ -1,0 +1,272 @@
+---
+title: "GES 678: Week 2"
+subtitle: "Technology Seminars and Information Gathering"
+format: 
+  pdf:
+    toc: true
+date: "10-01-2025"
+---
+
+{{< pagebreak >}}
+
+# Lecture
+
+## Seminar Purpose
+
+-   Present planning team
+    -   May not be technical staff, but many of them should stick around through the entire process
+-   Introduction to GIS
+    -   Why is GIS important (to you and others)?
+-   Planning Process
+-   Goals
+-   Explain participant roles
+    -   Explain to other leadership what they are going to do in the process (and what you will do in the process)
+-   Cover terminology/methodologies
+    -   Define acronyms and terms, whether organizational or GIS-specific
+-   Allow participants to evaluate work needs and identify improvements/potentials/bottlenecks
+    -   Investigate business processes, think about how GIS can slot in
+-   Compile initial product list
+    -   "What are we going to build for folks"
+
+
+## Workflows
+
+-   Model of business processes (Visio, Lucid, etc.)
+-   Connection of functions and information products
+-   Chance to visualize processes
+-   Identify opportunities to streamline
+    -   Inefficiencies
+    -   Bottlenecks
+    -   Improve throughput
+-   Establish initial requirements for software products
+
+## Overview
+
+-   Show off team
+    -   Skills
+    -   Knowledge
+    -   Background
+-   Introduce case studies
+-   Get comments and ideas without imposing your own
+-   Provide direction to the organization to help define their requirements
+
+## Seminar Attendance
+
+-   Prepare and send read-ahead material
+-   Post agenda in advance, including timings
+-   Invite list:
+    -   Department head
+    -   Chiefs
+    -   Senior Manager
+    -   Senior staff
+-   Manageable, but sizable attendance is good
+
+## Location
+
+-   Large/comfortable room
+-   Possible breakout rooms
+-   Away from your office
+-   Supplies
+    -   Smartboard
+    -   Flipcharts
+    -   Paper and pen
+    -   Reference material
+    -   Refreshments
+
+If remote:
+
+-   Common platform (Webex, Teams, Zoom, Google Meet)
+-   Pre-test
+    -   Number of participants
+    -   Tested by participants
+-   Be able to manage mics and video
+-   Allow for breakout rooms
+-   Manage and monitor chat
+-   Smart boarding
+-   Links to reference materials
+
+## Set the stage
+
+-   Introducing change
+    -   You will be introducing change; business processes will not be the same
+-   Building Trust
+-   Gaining Understanding
+
+## Plan the program
+
+-   Welcome/Commitment from Leadership/Vision
+-   Current status of GIS in the organization
+-   GIS presentation/potential/use in other organizations
+-   Needs assesment process
+-   Potential and sample products
+-   Break into work groups
+
+## Information Gathering
+
+-   Brainstorming with structure
+-   Departmental purpose
+-   Identification of products
+    -   Name
+    -   Description
+    -   Scope: who uses it, how often, who else might be interested
+-   Identify functions
+    -   How it will be used, need, frequency
+    
+## What to avoid
+
+-   Discussing pros and cons in details
+-   Diving into design and build topics
+-   Debating ideas
+-   Soapbox speeches
+-   Historic complaints
+-   Personal or opinion monopoly
+-   "The way we used to do it..."
+-   Applying limits or restrictions without stifling ideas
+
+## What do do
+
+-   Note taker to record everything
+-   Help frame comments
+-   Give everyone a chance to speak
+-   Hold to session timetables
+-   Group items where appropriate
+-   Manage groups
+    -   Move among groups
+    -   Carry ideas from group to group
+-   Provide wrap-up and next step expectations
+
+## Sample products
+
+-   Have samples from other organizations
+-   Prototype from own organization
+-   Case studies
+
+## Post Seminar: Rank benefits considerations
+
+-   Correlation to strategic plan
+-   Alignment with organization's mission
+    -   Mission critical
+-   Number of clients for a product
+-   Which business process it supports
+-   Funding/staffing/other resources available to support
+-   Achievable
+    -   Technically and organizationally
+    
+## Results
+
+-   Foundation for requirements
+-   Communication: lay out groundwork for discussions
+-   Risks: identify initial obstacles and problems
+-   Opens field to larger group than included in original planning process
+-   Sets stage for design and implementation
+-   "Buy-in" for road ahead
+-   Initial training and orientation for GIS champions
+-   Initial information products and workflows
+-   Initial scoping of software applications
+
+## Requirements Grouping
+
+-   Business
+    -   Higher level; why doing project
+-   Stakeholder
+-   Solution
+    -   Functional/non-functional
+-   Transitional
+    -   Interim items needed *during project*
+-   Project
+    -   Tasks done for support of project
+-   Quality and success measures
+
+## Traceability Matrix
+
+-   Cross-reference requirements
+    -   Mission
+    -   Goals
+    -   Outcomes
+    -   Design
+    -   Development
+    -   Testing
+    
+## Requirements Prioritization
+
+-   Unanimity: 100%
+-   Majority: >50%
+-   Plurality: Largest block
+-   Top Down: Decided by one
+
+## Information Product Descriptions
+### Title:
+
+-   Short
+-   To the point
+-   Little to no jargon
+-   Functional
+-   Assign a unique number
+
+### Name:
+
+-   Requester
+-   Client
+-   Name and Department
+
+### Outputs
+
+-   Maps
+    -   Essential map elements
+    -   Specific requirements
+-   Data
+    -   Format
+    -   Content
+-   Reports/Analytics
+    -   Tables, charts, figures, diagrams
+-   Services
+
+### Inputs
+
+-   Source maps
+-   Scanned documents
+-   Images
+-   Tables/reports
+-   Sensors
+-   Services
+
+Note sources from other organizations/entities
+
+### Frequency of Use
+
+-   Number of products
+-   Production Schedule
+    -   Daily, weekly, monthly
+-   Special events
+    -   Annual report, budget, seasonal event
+-   Driving factors
+-   Consumption by other products
+
+### Error tolerance
+
+-   Acceptable error
+    -   Always some level of error
+        -   Referential/tabular
+        -   Topological
+        -   Relative
+        -   Absolute
+    -   Timeliness
+    -   QC constraints
+        -   Resources
+        -   Validation of source material
+        -   Data conflicts
+        
+### Benefits
+
+-   Financial savings
+-   Direct benefits to organization
+-   Indirect benefits to organization
+-   External benefits to organization
+-   Saved time and resources
+
+### Approval process
+
+-   Signatures of authorities
+-   Review process
+-   External and internal support
+
