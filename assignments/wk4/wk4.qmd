@@ -52,3 +52,51 @@ The four components of a MIDL are:
     
 All of these components are crucial to ensure data interoperability and product utility. If one dataset is improperly stored or not cached, it could slow down the entire operation, reducing the benefits of the information product. It also serves as the basis for metadata and documentation of datasets, which is only becoming increasingly important as datasets grow and fragment.
 
+## Project Plan Review
+
+Often, the strategic plan is followed by a project proposal to upper management to achieve support, resources and funding. To this end, it's valuable to have the strategic plan include elements that you will need to prepare a proposal/project plan.
+
+Using a strategic plan you have reviewed (either the one you presented in class or another of your choosing), compare it to the project proposal in Tomlinson's Thinking about GIS Page 17 (in house) or page 18 (consultant).  See attached.
+
+List the items of the project plan and reference the part of the strategic plan that it applies. 
+
+For example, using the in house guide on page 17 and the [Kittitas County Strategic Plan](https://www.co.kittitas.wa.us/uploads/it/gis/KC-GIS-Strategic-Plan-2021-2026.pdf)
+
+1.1 Project background is referenced in Kittitas Strategic plan section 2.0
+
+2.1 Situational assessment is referenced in Kittitas plan section 3.0
+
+**Work outline**
+
+1. Project description
+    1. Background: This is represented on page 4 (section 2.1) of the Kittitas Co. Strategic Plan. 
+    2. Objectives of the project: This is represented on pages 15-23 (section 5.2). A high-level summary of the purposes and objectives of the project can also be seen on pages 3-4, in section 2.0.
+    3. Project deliverables: This is represented in sections 5.1-5.2. It discusses the critical upgrades necessary, such as Runtime SDK v100 and an Open Data Template. Each of the objectives in section 5.2 has a deliverable, including an enterprise GIS DB for KITTCOM and improved UI/UX for public-facing applications.
+2. User needs analysis
+    1. Situational assessment: This is represented on pages 5-8 (section 3). In addition, a SWOT analysis of current conditions is found in section 4.4.
+    2. Client base: This is represented on page 8 (section 3.3-3.4), which discusses organizational clients, such as staff, and other external stakeholders.
+    3. Business requirements and information products: This is represented on pages 13-23 (section 5), across which hardware requirements, software requirements, and objectives with specific information products are listed.
+    4. Data requirements: This is represented on pages 15-23 (section 5), with different requirements per objective. One specific data requirement is a county-wide survey control network, which will be a unified point layer of control points.
+    5. Technology requirements: This is mainly represented on pages 13-15 (section 5.1), which discusses the transition from ArcMap to ArcPro and the licensing required for that transition and applications built on each.
+3. Software/hardware assessment: This is represented on page 7 (section 3.2.2), which discusses the current "ESRI standard multi-machine ArcGIS Server Site."
+4. Database requirements: This is represented on page 7 (section 3.2.1) and throughout section 5, as different objectives require different database designs, such as a requirement for compatibility with an editable web service.
+5. Implementation plan: This is represented throughout section 5, as different objectives have different implementation timelines: for example, objective 4.4 states, "In order to stay ahead of the eventual phase out of ArcMap, all staff
+will be using ArcGIS Pro by 2021."
+6. Schedule of payment: This is likewise represented per objective in section 5. For example, desktop and server licensing is expected to increase in cost as Esri moves towards named user licenses and as web service usage increases. Costs per server core are laid out.
+
+**Contract conditions**
+
+Each objective listed in section 5 has the responsible party (for most objectives, this is the IT department). Different stakeholders are responsible for different aspects of each objective.
+
+**Appendix 1** Documents for review
+
+This section does not exist in the same capacity in the Kittitas County plan. There is a glossary of terms included, but no contracts or other documents to be reviewed in tandem with the plan.
+
+**Appendix 2** Ecosystem database inventory
+
+Though this section in Tomlinson is more specific to Parks Canada, Appendix A in the Kittitas plan serves a similar function: it is a list of existing maintenance routines and automations for their applications. It describes the existing state of GIS applications in the organization.
+
+**Appendix 3** Client list
+
+Because a big part of the Kittitas plan was licensing and migration, this section is probably closest to Appendix B: it lays out the current users of each of the ArcGIS licenses across the organization. This list will help decision-makers when choosing a number of licenses to buy or upgrade with the new implementation.
+
