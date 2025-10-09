@@ -1,5 +1,5 @@
 ---
-title: "GES 678: Week 2"
+title: "GES 678: Week 4"
 subtitle: "Presentation of Strategic Plans, cont."
 format: 
   pdf:

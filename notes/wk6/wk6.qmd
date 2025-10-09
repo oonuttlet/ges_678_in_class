@@ -1,0 +1,116 @@
+---
+title: "GES 678: Week 6"
+subtitle: "Data, Database, and System Design (Virtual)"
+format: 
+  pdf:
+    toc: true
+date: "10-08-2025"
+---
+
+{{< pagebreak >}}
+
+## Lecture
+
+### Data Design
+
+-   We're looking for a conceptual layout of our data
+    -   So much of the database isn't just the rows and columns, but the details help drive the programs
+-   Considerations
+    -   Is the data model representative of the project?
+    -   Does it limit or prohibit the project?
+-   Data Characteristics
+    -   Scale
+    -   Resolution
+    -   Projection
+    -   Error Tolerance
+-   Data Capabilities
+    -   Survey Capabilities, with very detailed coordinates
+    -   Topology
+        -   Spatial integrity
+        -   Dirty/Clean areas; validation
+    -   Temporal
+        -   Tracked over time
+    -   Cartography and graphics
+        -   Usability for display and map production
+    -   Spatial Analysis
+    -   Network Analysis
+        -   Routing, proximity, allocation
+    -   Terrain Modeling
+    -   Imagery
+    -   Mobile Technology
+    -   Interoperability
+-   Data Logistics
+    -   Digital Data Sources
+    -   Formats
+        -   Raster
+        -   Vector
+    -   Standards
+    -   Data conversion and interoperability
+        -   80/20 rule: 80% of data represents 20% of the problems
+
+### Logical Data Model
+
+-   Relational
+-   Object-oriented
+-   Object relational
+-   Attention to organizational norms and standards
+
+### System Considerations
+
+-   Hardware
+    -   On-prem
+    -   Cloud
+-   Software
+-   System Requirements
+-   Interfaces
+-   Security
+-   Scoping Hardware Requirements
+    -   Data Handling
+    -   Workstation Requirements
+    -   Data hosting and user locations
+    -   Data storage and security
+    
+-   Software
+    -   Preliminary software selection
+    -   Functional requirements
+        -   Consider IPD and MIDL needs
+    -   Classify system functions
+        -   Frequency of functions
+        -   Basic characteristics and core activities
+    -   Scorecard analysis
+
+-   Interface: communications
+    -   System interface
+        -   Distributed GIS and web services
+        -   Platform sizing and bandwidth
+            -   User workflows
+            -   Workflow technology choices
+            -   Baselines
+            -   Custom
+    -   Network communications
+    -   Client-server
+        -   Central file server
+        -   Central DBMS
+        -   Central application
+        -   Web transaction
+    -   General issue of network performance
+
+-   Security
+    -   Access control
+    -   Roles and responsibilities
+    -   Physical security
+    
+-   Uncontrollables
+    -   Org policy, standards, practices
+    -   Costs
+    -   Technology lifecycles
+    -   External demands on network resources
+    -   Staging
+
+-   Controllables
+    -   Batch processing
+    -   Platform sizing
+    -   Response time and capacity testing
+    -   Knowing org policy and standards
+    -   Planning for tech lifecycles
+    -   Preliminary design documents
