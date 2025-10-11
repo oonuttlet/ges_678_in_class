@@ -1,0 +1,40 @@
+---
+title: "GES 678: Assignment 4"
+subtitle: "Due 10-15-2025"
+format: 
+  pdf:
+    toc: true
+date: "10-11-2025-2025"
+---
+
+{{< pagebreak >}}
+
+## Reading Chapter 7-8
+
+**Name 5 characteristics of a dataset?**
+
+1. Scale: simply put, the size of objects on a map. It can be expressed as a ratio relative to real life (*e.g.*, 1:24,000), or can be generalized as small- or large-scale.
+
+2. Resolution: Tomlinson writes, "Consider resolution defined here as the size of the smallest features that can be mapped or sampled at a given scale" (p.79, 5th ed.). It can determine the number of vertices of a polygon, or the size of a raster cell.
+
+3. Map projection: In order to display 3D information on a 2D plane, some sort of transformation must be done. This transformation depends on the spatial extent of the data, so it's important that each dataset has a projection selected which causes minimal distortion across its extent.
+
+4. Error tolerance: In all data collection, there is error. Different datasets have different tolerances for error, which tolerance can depend on the data's use and importance within the organization. Having a defined error tolerance for a dataset determines the point at which error makes the data no longer useful.
+
+5. Topology: Though perhaps not specifically a characteristic of a dataset, topology is a tool which can be implemented in a GIS dataset which helps detect and correct errors in geometry. It can determine if rings are not closed, or where polygons overlap one another.
+
+**True or false: Free data from the web without information about is scale, age, source, or any metadata is better then paying for your own data collection.**
+
+False. If you don't have the listed information with a dataset you find online, you're making assumptions and guesses about the meanings of attributes, you don't know if it's still accurate today, and you don't have a point of contact for issues or errors. Tomlinson writes, "there is no shortcut around the imperative of recognizing [your data's] pedigree. There is no substitute for knowing how accurate and reliable your data is" (p. 95, 5th ed.).
+
+**Match the database types and descriptions below:**
+
+a: relational              2: data stored in collection of associated tables
+
+b: object orientated       3: made up of objects, attributes, and behaviors 
+
+c: object relational       1: includes richer data types to store objects within a table and column 
+
+**True or false: the IPD's and MIDL's are used in the determination of system scoping.**
+
+True. IPDs and MIDLs are absolutely crucial in determining the scope of a GIS. As discussed in chapter 1, the cost of making changes as the planning process matures increases exponentially. At this stage, the IPDs and MIDLs are the most thorough set of requirements you have to design your system around; by incorporating them into your system scoping, you can ensure that the GIS that is designed is broad enough in scope to cover all of the information products you need, while not so broad that money is spent that won't be used. Using information in IPDs and MIDLs, a manager can determine the frequency of function use, which will help calculate expected server loads, storage needs, and other infrastructure.
