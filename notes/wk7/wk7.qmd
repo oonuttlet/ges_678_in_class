@@ -1,0 +1,183 @@
+---
+title: "GES 678: Week 7"
+subtitle: "SWOT Analysis and Key Performance Indicators"
+format: 
+  pdf:
+    toc: true
+date: "10-15-2025"
+---
+
+{{< pagebreak >}}
+
+## Lecture
+
+### SWOT Analysis Overview
+
+A SWOT analysis highlights internal Strengths and Weaknesses, and external Opportunities and Threats. It is often shown in a diagram e.g.
+
+|               |            |
+|---------------|------------|
+| Strengths     | Weaknesses |
+| Opportunities | Threats    |
+
+: SWOT table layout
+
+### Strengths
+
+-   Centralized Spatial Data management system
+    -   Single source of truth
+-   Improved decision-making
+    -   Visualization and spatial analysis
+-   Efficiency
+    -   Automation and Integration
+-   Scalability in an enterprise environment
+-   Enhanced public engagement
+    -   Applications, dashboards, and maps
+
+### Weaknesses
+
+-   High initial costs for software and data
+-   Complex integration
+-   Skill gaps, often limited expertise
+-   Data collection, governance, and quality challenges
+-   Risks including system performance and security concerns in an enterprise environment
+
+### Opportunities
+
+-   Advanced analytics
+-   Flexibility in environments
+-   Enhanced data sharing and collaboration
+-   Optimized asset and resource management
+-   Public-facing transparency and engagement
+
+### Threats
+
+-   Budget/resources/schedule
+    -   Fluctuations or funding instability
+-   Tech changes and obsolescence
+-   Security and privacy risks
+-   Regulatory or compliance changes
+-   Organizational resistance to enterprise adoption
+
+### Measuring the GIS program
+
+-   Measurement is essential for demonstrating value
+-   KPIs provide a way to measure program success
+
+Some KPIs include:
+
+-   System Usage
+    -   Active users, uptime, service requests
+-   Data Quality
+    -   Accuracy, completeness, metadata compliance
+-   Efficiency Gains
+    -   Time or cost savings from new workflows
+-   Staff Proficiency
+    -   Number of classes, training participation, certifications
+    
+KPIs should be things *you can control.*
+
+### KPIs for opportunities
+
+-   Number of GIS apps or dashboards launched or upgraded
+-   Adoption of mobile and cloud tools
+-   Cross-departmental collaboration and sharing
+-   Use of advanced spatial analytics and modeling
+-   External engagement and open data platform traffic
+
+### KPIs for threats
+
+-   % budget to project completion
+-   System within 2 versions of current
+-   Cybersecurity risks identified and resolved
+-   Regulatory or compliance changes addressed
+-   Stakeholder satisfaction
+    -   Surveys and feedback
+    
+SWOT provides a strategic view of the GIS program, including what is working, what's not, growth potential, and risks.
+
+KPIs help the GIS manager measure progress and show success in different areas.
+
+### Risk analysis (Tomlinson Ch 10)
+
+Definitions:
+
+Risk 
+
+: an event that may or may not happen could impact the program or project
+
+Issue
+
+: a previously-identified risk that has occurred and is impacting the program
+
+### Risk Management
+
+-   Identify
+-   Assess
+-   Evaluate
+-   Response
+-   Monitor
+-   Report
+
+Identify types of risk:
+
+-   Technology
+-   Organizational functions
+-   Organizational interactions
+-   Constraints
+    -   Scope
+    -   Rescheduling
+    -   Resources
+-   Stakeholders
+-   Complexity
+-   Project planning
+-   Project management
+
+### Scenario 1
+
+Consolidation of GIS program
+
+-   GIS analysts and IT application developers
+-   IT is under-resourced for projects
+-   New initiatives may be added to existing projects
+
+Results
+
+-   GIS staff needs to do more app development
+-   IT developers will need to develop GIS-centric programs
+
+Risks:
+
+-   GIS project could remove onus of updates to existing initiatives
+-   Untrained developers could introduce security risks
+-   IT team is already under-resourced, may not have more availability
+
+### Risk Assessment
+
+-   Ranking: least likely to most likely, on a numeric scale (1-4, 1-10, 1-100)
+-   Results in overall evaluation rank
+
+### Response
+
+Mitigating factors to minimize risk
+
+-   Identify what course of actions can be taken to manage
+-   Who is responsible and accountable
+-   Timetable for a response
+
+Summarize level of risk:
+
+-   Average vs. total score
+-   Determine acceptability
+-   Document decisions made during analysis
+
+### Monitor and report:
+
+-   Document decisions
+    -   Pros/cons/impacts/stakeholders
+-   Maintain documentation of risks
+-   Update on a pre-determined schedule
+    -   Staff/stakeholders
+    -   Leadership
+-   Track which ones become issues/are resolved
+
