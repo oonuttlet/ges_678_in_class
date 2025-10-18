@@ -1,0 +1,47 @@
+---
+title: "GES 678: Assignment 5"
+subtitle: "Due 10-15-2025"
+format: 
+  pdf:
+    toc: true
+date: "10-18-2025"
+---
+
+{{< pagebreak >}}
+
+## Reading Chapter 10
+
+Read Tomlinson Ch 10
+
+
+Answer the following questions.
+
+**What are the 5 cost categories of the GIS cost model?**
+
+The 5 cost categories for the GIS cost model are:
+
+1. Hardware: what servers do you need? What computers will your staff need to effectively use GIS?
+
+2. Software: will you use open-source software options? Pay Esri for an enterprise license? What software will you use for Web GIS?
+
+3. Data: will you need to license or pay ad-hoc fees for the data required for the GIS? Do you have the resources to collect or otherwise acquire data?
+
+4. Staffing and training: will you pay for training for existing staff, or allocate funds for new GIS positions? Can your existing enterprise IT staff assist with server infrastructure and software distribution?
+
+5. Interfaces and communications: can existing server and networking infrastructure support spatial uses? Will new, more robust communications interfaces need to be implemented to support the additional load of GIS traffic?
+
+**True or False. A benefits approach would be to look at the benefits to the organization and/or the percent improvement in effectiveness.**
+
+True. The benefits approach investigates the specific positive impact that implementing a new system would have on each workflow and business practice for which it is implemented. This is easiest to quantify as a dollar amount, but that dollar amount can be indirectly calculated via time savings or increased accuracy (read: lower liability).
+
+**True or False. A migration strategy is the moving of data and business processes from older/existing computer systems to the new GIS.**
+
+True. The migration strategy, like the entire planning process, can vary depending on the scope and complexity of the implementation—however, it is the plan to be followed when moving from existing or old processes and systems to new ones. Even though GIS will provide benefits to the organization when implemented, it can't just happen all at once: existing processes should continue to be followed until the system is properly set up and prepared. A service disruption upon migration would negate lots of the benefits of switching to a GIS.
+
+**True or False. Risk analysis includes the following: identification, nature, mitigating factors, likelihood, and summary of risk factors.**
+
+True. Approaching risk analysis with this structure allows for one risk to be examined from multiple levels: the summary score provides a high-level look for decision-makers and ranking risks against one another, while the individual scores that comprise the summary allow for lower-level examination and more nuance when discussing which risks to mitigate first.
+
+**True or False: Once and Implementation plan is completed, it should never be adjusted for new product, changes in priorities, or updated over time.**
+
+False. Writes Tomlinson, "[the implementation plan] must be periodically updated in response to changes in your organization and to keep pace with technology trends" (p. 201). If the document is finished when the planning is complete, technological advancements will have made the document obsolete within a few years—longer than implementation timelines for some projects. Thus, the implementation plan can be a "living document," or a manager can release an authoritative update to the plan every several years.

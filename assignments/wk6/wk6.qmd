@@ -4,7 +4,7 @@ subtitle: "Due 10-15-2025"
 format: 
   pdf:
     toc: true
-date: "10-11-2025-2025"
+date: "10-11-2025"
 ---
 
 {{< pagebreak >}}
