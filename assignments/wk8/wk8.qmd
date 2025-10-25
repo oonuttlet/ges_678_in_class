@@ -1,0 +1,30 @@
+---
+title: "GES 678: Assignment 8"
+subtitle: "Due 10-28-2025"
+format: 
+  pdf:
+    toc: true
+date: "10-25-2025"
+---
+
+{{< pagebreak >}}
+
+### Legacy Applications - Ch 10
+
+Legacy systems are existing technologies that will be phased out with the new GIS environment.
+
+Identify 3 options for migrating legacy system. Give an example of why you may use each option.
+
+When implementing GIS, there are three options for migrating legacy systems and processes. The first is a implementing components of the GIS framework into the existing process, to avoid any disruptions in business process and a seamless migration to the new software. As a personal anecdote, I've worked on a project that took this exact approach: the Code Enforcement unit within Baltimore County was looking to increase their proactive identification of violations, implementing a "proactive sweep" system. The legacy system was: 
+
+1. Code Enforcement Sweep coordinator draws a polygon based on input factors on a paper map, for each sweep inspector
+2. Sweep inspectors pick up their assignments in the morning, and go sweep the assigned area
+3. Sweep inspectors input violations, either using an iPad in the field or returning to the office and inputting on a desktop
+
+In this process, there was no way of identifying a violation rate (e.g. a denominator—"how many houses were swept?) because previous assignments weren't stored. Additionally, it meant inspectors had to stop in the office in the morning, and it was not possible to assign a ticket to a specific sweep. Our team created an ArcGIS Online application for the sweep inspector to draw the polygons (to replace the paper maps), which polygons were then ingested into a webmap for the inspectors to view on their iPads. The boundaries are stored in an enterprise database, and then a nightly FME job is run to relate both the tickets and the total address points to each sweep after the coordinator has marked it as complete. By implementing their existing process (e.g. draw polygons, get assignment, report tickets) into GIS, the organization can gain more utility and streamline the process for the employees.
+
+This is useful because it keeps the business process as close as possible to the original, while offering improvements. This reduces training time, organizational resistance, and planning/development time, because parts of the legacy system remain.
+
+A second option for migrating from legacy systems to modern systems is to completely rebuild existing functionality and revamp processes under the new system. This method means there is more training and organizational resistance, but can allow for a better risk assessment and understanding of how the new process works. This could be used, as an example, to identify all properties within 500 feet of a zoning change. Currently, the planner must manually export a list by measuring and selecting all parcels within 500 feet. However, with GIS, this is a simple buffer, which can then be automated to automatically email, or send a letter, or even just return a formatted list of addresses to the planner. This could cause planners or clerks to feel that their job is being taken by automation, or wary of the quality of the data returned by the GIS. However, this system gives massive time (and therefore cost) savings to the organization, so it's worth the pushback to implement.
+
+Finally, there is the option of rebuilding the existing workflow entirely (with the same functionality) in the modern system. Conveniently enough, I'm working on migrating the aforementioned new (now legacy) Code Enforcement system into Experience Builder from Web App Builder before deprecation. By simply moving the applications from one framework to another, the goal is that zero additional training will be needed, and the transition will be seamless for the coordinator, the inspectors, and the GIS team. This method can take some more planning and development time over the first option, to ensure that the new system is as close to the legacy system as possible, but makes organizational buy-in extremely easy.
