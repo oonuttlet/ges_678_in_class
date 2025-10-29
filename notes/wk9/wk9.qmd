@@ -1,0 +1,63 @@
+---
+title: "GES 678: Week 9"
+subtitle: "Legacy Systems, Migration, and Project Schedules"
+format: 
+  pdf:
+    toc: true
+date: "10-29-2025"
+---
+
+{{< pagebreak >}}
+
+## Lecture
+
+### Project Schedule
+
+A project schedule is a living document listing all project tasks, durations, and dependencies. It is used to plan, track, and communicate timelines.
+
+Tasks can have dependencies: If task 2 cannot begin until task 1 is complete, then task 2 is dependent on task 1.
+
+Key components of a schedule:
+
+-   Task lists
+    -   Activities needed to complete the project
+-   WBS (work breakdown structure)
+    -   Hierarchy of tasks
+-   Resource allocation
+-   Start and end dates
+-   Visualization tools (e.g. Gantt charts)
+
+**Project Milestones**
+
+Zero-duration checkpoints that mark major progress, used for tracking, communication, and celebration of achievements
+
+-   Project kickoff, technology meeting, deploy a web application
+
+### Creating an effective Project Schedule:
+
+-   Define Scope
+    -   Requirements established during technology seminars
+-   Use WBS
+    -   Hierarchy of tasks into measurable units
+-   Set durations
+    -   Estimated times of completion
+-   Assign resources
+    -   Who, what, how
+-   Identify milestones
+    -   Releases, achievements, etc
+-   Visualizations
+    -   Charts, dashboards, KPIs
+-   Monitor progress
+    -   Along with visualizations, review and update schedule to ensure tasks stay within resource and time limits
+    
+**Setting realistic milestones and deadlines**
+
+-   Use team input
+    -   Measure responses based on knowledge
+-   Add buffers
+    -   Consider adding 10%-20% for a task
+-   Prioritize based on impact
+    -   Focus on dependencies
+    -   "long pole" of project is most time-consuming, most critical, or otherwise most important element
+-   Communicate transparently
+    -   Stakeholders, senior leadership, your team
