@@ -1,0 +1,136 @@
+---
+title: "GES 678: Week 10"
+subtitle: "Change Management and Communication Planning"
+format: 
+  pdf:
+    toc: true
+date: "11-5-2025"
+---
+
+{{< pagebreak >}}
+
+## Lecture
+
+### Communication Plan
+
+**Why is a communication plan important?**
+
+A communication plan is necessary to ensure that the organization understands what will be changing, when, and how the roles of individuals within the organization will change. Nobody likes to have major changes pushed on them with no prior notice.
+
+-   Ensure success and acceptance of the GIS program
+-   Effective communication of program status and progress
+
+1. Identify stakeholder: who do we want to talk to?
+    -   Who has a stake in your program success?
+    -   Who benefits from the program?
+    -   Whose environment will change with the program?
+    -   Who needs to accept the changes in the program?
+2. Analyze method of communication: how will we talk to them?
+    -   Group
+    -   What influence do they have on your project? Money, management, etc.?
+    -   Are they interested? Do they see the benefits of GIS?
+    -   What are the issues with communicating to this group?
+    -   Management Strategy
+3. Prioritize
+    -   Who gets information and in what order
+        -   Key to project success
+        -   Include
+          -   Name
+          -   Description
+
+Information to capture in a communication plan includes:
+
+-   Identify stakeholders
+-   Create groups of stakeholders
+-   Communication method (media, meeting, report, post)
+-   Frequency
+-   Owner/approver/accountable party
+
+#### Analysis example 1: Steering committee
+
+-   Influence: High
+-   Interest: High
+-   Frequency: Regular briefings, especially at milestones
+-   Owner: GIS manager/project sponsor
+-   Strategy
+    -   Major project stakeholder
+    -   Involve in governance teams
+    -   Fully engage
+    -   Keep satisfied
+    -   Consult regularly to provide frequent and detailed updates
+    -   Email and regular meetings
+
+#### Analysis example 2: Staff
+
+-   Influence: Low
+-   Interest: Low
+-   Frequency: Regular, milestones, status, events
+-   Owner: GIS manager, steering committee
+-   Management
+    -   Monitor
+    -   Inform via general communication
+    -   Avoid excessive communication
+    -   Try to increase interest level
+    
+### Change Management Plan
+
+The purpose of a change management plan is to guide and manage organizational, technical, and process change during GIS program implementation.
+
+-   Scope: defines the enterprise areas affected by the GIS program
+-   Objectives:
+    -   Ensure smooth adoption of GIS technologies and workflows
+    -   Minimize disruptions to operations
+    -   Align people, processes, data with strategy
+    -   Achieve sustained value from GIS investments
+
+The ten essentials of a change management plan:
+
+1. Linkage to strategic goals
+    -   Enterprise GIS goals
+    -   Key success factors
+2. Define stakeholder roles and expectations
+3. Establish framework for change
+    -   Phases of change
+        -   Initiate: define need and objectives
+        -   Assess: evaluate impact, risks, readiness
+        -   Plan
+        -   Implement
+        -   Reinforce
+4. Define requirements gathering
+    -   Methods
+        -   Interviews, tech seminars, surveys, document reviews
+    -   Outputs
+        -   IPDs, functionality, data, workflow requirements
+    -   Prioritization criteria
+        -   Strategic alignment, impact, compliance, resource availability
+5. Clearly state prioritization
+    -   Methods to prioritize
+        -   Cost
+        -   Duration
+        -   Scoring factors
+6. Targeted training and ongoing support
+7. Review communication plan
+    -   Objectives
+        -   Keep stakeholders engaged, informed, and aligned
+    -   Approach
+        -   Executive briefings
+        -   Department meetings
+        -   User newsletters and intranet posts
+    -   Key messages
+        -   Purpose, benefits, timelines, resources
+8. Transition and implementation timeline
+    -   Planning (3 months)
+    -   Development (6 motnths)
+    -   Rollout (2 months)
+    -   Stabilization (3 months)
+    -   Continuous improvement
+9. Success metrics and measurement
+    -   Adoption metrics
+    -   Performance metrics
+    -   Satisfaction metrics
+10. Governance and continuous improvement
+    -   Governance
+        -   GIS steering committee, tech advisory group
+    -   Continuous improvement
+        -   Implement feedback
+
