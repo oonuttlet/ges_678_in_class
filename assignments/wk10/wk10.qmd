@@ -1,0 +1,57 @@
+---
+title: "GES 678: Assignment 10"
+subtitle: "Due 11-19-2025"
+format: 
+  pdf:
+    toc: true
+date: "11-8-2025"
+---
+
+{{< pagebreak >}}
+
+### Geospatial Revolution Videos
+
+Watch the 5 Episodes video Geospatial Revolution
+
+http://geospatialrevolution.psu.edu/
+
+
+Briefly address each of the 4 questions below.
+
+Keep your answer to a total of 3-4 pages for the entire paper.
+
+**Based on the City of Portland section (Episode 2) and our reading in Thomlinson (Chapter 3), write a mission or vision statement for the City's GIS program. What would be a goal(s) of the program?**
+
+From the information provided in Episode 2 of the Geospatial Revolution, it's clear that Portland is not only aiming to integrate GIS into government activities, but to integrate the public into the GIS ecosystem. A mission statement for the City's GIS program could be:
+
+The City of Portland's GIS program will make geospatial data and information products available across government and to the public. We will incorporate constituents into data collection and allow them to use the results for analysis, promoting transparency and accountability for our decisions.
+
+Some goals for the program could be:
+
+-   Expand usage of CivicApps such as PDX Reporter to improve constituent collaboration
+-   Collect additional spatial data, such as LiDAR, to overlay with existing geospatial data
+-   Make spatial data available to the public via PortlandMaps
+
+**As each speaker was shown, their name and title were listed below their picture. There were a wide range of titles, with only a few titles matching the job descriptions listing in Appendix A of Thomlinson. The growth in GIS has caused a expansion of job types in the discipline. Based on their topic, pick one of the speakers and their job title and write a brief job description for that job title.**
+
+In Episode 2, there was a discussion of Philadelphia's initiative to fund and open grocery stores in under-served communities. One of the job titles within that segment was "Director of Research & Evaluations" at the Food Trust. Though not a "traditional" GIS role, this position requires strong understanding of geography and comprehension of spatial information to provide recommendations to decision-makers. 
+
+A potential description for this role, particularly as it relates to the grant being discussed, is:
+
+The Director makes recommendations to municipal partners of possible locations for new grocery stores, to be funded by the Pennsylvania grant and loan program. The successful candidate will be able to understand spatial relationships between food, demographics, transportation, health, and other facets of food insecurity. They must be able to identify new data sources and products which could be used to better describe the need for better food access within Philadelphia. They must be able to explain why identified areas are the highest-priority locations for new grocers. The Director sets the research agenda and defines the analytical requirements for the GIS Manager, ensuring the final data products are accurate, validated, and meet the standards required by the funding agency. Finally, they must be able reframe or translate technical concepts to stakeholders, particularly those who are unfamiliar with GIS. 
+
+**Ushahidi was discussed in its support for disaster relief mapping for Haiti as a crowd sourced data collection effort. Thomlinson addresses this "community involvement" on Chapter 7 volunteered Geographic Information (VGI). If you were to manage a GIS project dependent on data collection from volunteered sources, what managerial issues would you expect to encounter and have to overcome? (Think: keeping timetables, prioritizing work, etc.).**
+
+If I were to manage a GIS project dependent on VGI, like Ushahidi or OpenStreetMap, my first priority would be enforcing data accuracy and quality standards. Receiving so much information so quickly means that there are bound to be mistakes, and sometimes even misinformation intentionally submitted. For any project, but particularly in an emergent situation like the Haitian earthquakes, data quality issues can mislead users and impose additional costs if resources are used inefficiently. Ensuring that the data is accurate, useful, and timely is critical to the success of a project or information product.
+
+Verification of data quality is not easy, though—it requires skilled users and lots of meticulous labor. In Episode 1 of the Geospatial Revolution, the Haiti crisis mapping effort was cited as having over 2,000 trained volunteers who submitted, translated, and verified geographic information. Thus, a project relying on VGI not only requires resources for training users, but also a persuasive effort to convince volunteers that GIS is worthwhile and that the project needs their help to succeed.
+
+In addition, a project relying on VGI must account for the risk of outages or data access issues. If data is not maintained on-premises, or if there are licensing restrictions on mirroring data, then an outage from the provider of the data (for example, OSM) becomes an outage of the information product. If this risk is not accounted for, then intermittent data access or stale data can make a project unsuccessful.
+
+A communication plan is a must for a project reliant on VGI. As mentioned in the episode, the volunteers hailed from all across the globe: not only can volunteers speak different languages, they may be awake at different times, or use different platforms for communication. Ensuring that communication can be maintained with all volunteers is essential to continuing data collection and disseminating important or time-sensitive information across the volunteer network.
+
+**Of all the topics presented in the videos, which hit you personally as the most important/interesting topic being addressed in GIS today? Explain.**
+
+Personally, I think the food security and grocery store initiative in Episode 2 is the most interesting and important use of GIS that was showcased in this series. Particularly with recent discourse around SNAP benefits, food security is a pressing issue, and one I'm very familiar with, particularly from a GIS perspective. I maintain the Baltimore County Food Pantry Locator, which connects residents with their nearest food distribution sites—building an information product which quickly and easily conveys the necessary information to constituents is very important. 
+
+I've also been tapped for some recent emergency GIS work revolving around the shutdown and SNAP benefits: by providing maps overlaying SNAP recipients by ZIP code with food pantries and County facilities, $4 million has been pledged by the Klausmeier administration to food distribution partners in the areas with the most need. Without GIS, this targeted initiative would not be as effective, and distribution efforts would be less efficient.
