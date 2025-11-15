@@ -1,0 +1,24 @@
+---
+title: "GES 678: Assignment 11"
+subtitle: "Due 11-19-2025"
+format: 
+  pdf:
+    toc: true
+date: "11-15-2025"
+---
+
+{{< pagebreak >}}
+
+### Cost/Benefits of GIS
+
+**In Thomlinson Chapter 10, he discuss cost benefits analysis for GIS Projects. Based your answer on one of the strategic plans you have read, or from your own experiences. Identify and describe 5 business functions that a enterprise wide GIS program could provide that would bring increased benefits or reduced costs to an organization.**
+
+One business function that an enterprise-wide GIS program could provide is migration from legacy software into modern software. For example, by gathering disparate GIS staff across departments and including them in one Esri ELA, the GIS manager can move *everyone* away from ArcMap, into ArcGIS Pro, and avoid additional fees and security risks from having outdated and unsupported software. This reduces costs and modernizes the GIS stack, which also allows for more advanced processing and products. My workplace has recently completed this migration via extensive surveys and software analyses.
+
+Another business function that an enterprise GIS program could provide to increase benefits to the organization is the removal of steps in a business process. I previously discussed how the Code Enforcement unit in my workplace used GIS to modernize their proactive sweep process—one major benefit of this is the removal of several steps from the existing workflow, saving time and resources. For example, the sweep coordinator no longer has to print the maps, saving on paper and ink; and the inspectors no longer have to drive to the office before starting their sweeps, saving on fuel and time that could be spent inspecting addresses.
+
+In the Kittitas County GIS Strategic Plan, one of the opportunities identified in the SWOT analysis is to "[a]id GIS program development for City of Kittitas and Kittitas Valley Fire and Rescue." Though this goal may not directly lead to monetary savings, the benefits of using GIS for fire and rescue are demonstrated through additional lives and property saved across the County. These could be considered qualitative benefits to the County: they're spending money to improve the GIS program, but they are increasing public trust and maximizing the efficiency of their emergency operations.
+
+Another opportunity identified by Kittitas County is a reduction in costs driven by "[p]roviding a framework to catalogue land use documentation dramatically reducing processing times for public disclosure requests and land use applications." By reducing processing time, the benefits are twofold: the user is more satisfied with their GIS experience, and faster processing frees up hardware which could be used for other workflows or queued requests, meaning the County has to purchase fewer licenses, or cheaper hardware. 
+
+Finally, by implementing an enterprise GIS database, departmental sharing of data reduces duplication and utilizes resources more effectively. Kittitas County describes this phenonmenon as, "[elimination of] duplication of effort by bridging workflows that involve multiple systems and data stores within departments." If two departments are working on a similar analysis and have each devoted a GIS tech to the work, then personnel costs can be saved by having the two collaborate (or reassigning one of the techs to other work). This will allow for increased utility with the same resources, directly saving money to the County.
