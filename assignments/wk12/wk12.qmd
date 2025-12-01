@@ -1,0 +1,68 @@
+---
+title: "GES 678: Assignment 12"
+subtitle: "Due 12-3-2025"
+format: 
+  pdf:
+    toc: true
+date: "12-1-2025"
+---
+
+{{< pagebreak >}}
+
+# Question 1
+
+From Thomlinson Chapter 11
+
+Answer this question. Keep your answer to 1-2 pages.
+
+**Of the Key Issues to be addressed in implementation (listed on page 167), which to you feel personally would be your biggest challenge? Knowing your own strengths and weakness, which issue would you need to focus your energy because it is not within your strengths or interests? Describe how would you manage this one issue to make sure it does negatively impact your project.**
+
+Of the issues outlined by Tomlinson, I think that I would most need to focus on the funding. I consider this the issue most important to me for two reasons: first, without funding, the rest of the implementation cannot continue; second, the politics and soft skills necessary to convince someone to give me money are far from my strong suit. In my personal life, I hate asking for help: funding a GIS implementation is no small ask.
+
+The best way to tackle this problem is to start early. Throughout the semester, we've discussed the importance of including decision-makers in every step of the planning process—by using previous steps in the planning process to convince organizational leadership that GIS is important and worth the investment. If this is the case, then the funding issue should be small in the implementation stage: the people who control the money should already be on your side!
+
+However, there may be other funding issues raised during implementation that did not arise during the planning process. This is where it's crucial to be able to navigate interpersonal relationships and understand budget sheets: as a manager, I would make it a priority to educate myself on grants and other sources of funding, as well as building a good relationship with the budget and finance department. Implementing a recurring, monthly check-in meeting with the budget department would ensure that the proposed funding structure is still feasible, and if any changes need to be made proactively. If the initial funding plan falls through, having back-ups ensures that implementation can move forward.
+
+In addition to the above, I'd be sure to have evidence of the benefits and utility of GIS. Again, these should be established earlier in the planning process: at this point, I'd make sure that the decision-makers are included in the communication plan with regards to milestones and metric tracking, to demonstrate that the investment is bringing in continual benefits to the organization. Additionally, implementing a dashboard which puts the benefits directly into a dollar amount would translate the technical accomplishments into language that the funders understand.
+
+By creating interdepartmental relationships and ensuring the project continues to yield a return on investment, the funding issue can be mitigated during the implementation phase to ensure the project continues. Reporting on KPIs and technical achievements plays to my strengths, while simultaneously reducing the funding issue during implementation.
+
+{{< pagebreak >}}
+
+# Question 2
+
+"The implementation plan should illuminate the road to GIS success"
+
+**Chapter 11 in Thomlinson defines what elements should be contained in the GIS program Implementation plan. Put yourself in the roll of the manager preparing and presenting this plan.**
+
+**From your reading and experience, answer the following.**
+
+- **List and briefly define what 6 components are needed for the plan document.**
+- **For each component, describe why are these important to your plan**
+- **List 4 other components that you would want to highlight in you plan that you think is critical for acceptance of the plan.**
+
+The six sections necessary for the implementation plan document are:
+
+1. Strategic business plan considerations
+    -   This section describes how the implementation pertains to the organization's strategic plan. It relates GIS to the enterprise's mission and goals, to confirm that your vision for the GIS matches leadership's vision for GIS.
+2. Information product overview
+    -   This section describes the products that GIS will support. Much of this will be based off of the IPDs created during planning, which will be summarized to be easier to read.
+3. Conceptual system design
+    -   This section describes, at a high level, which software and hardware packages will be used in the GIS. By discussing the thought process and considerations of different systems, leadership will be able to see that this process was well-thought-out, and why the chosen infrastructure is best for the organization.
+4. Recommendations
+    -   As a subject matter expert, the decision-makers are trusting you to have the most straightforward path for implementation. This is where you lay out costs and benefits, a migration plan, training plans, etc.
+5. Timing
+    -   Ensuring that the implementation stays on-time is crucial. This means reduced costs, less personnel resources needed, and quicker realization of benefits. Using a Gantt chart to show milestones puts the timing in an easy-to-read format.
+6. Funding alternatives
+    -   In the report, the manager must detail how much money is coming from where for what. This plan does not always happen as seamlessly as expected, so alternative funding sources must be identified—grants or other awards can assist with first-time costs, for example. Additionally, this is where planning for hardware and software upgrades should be done. By upgrading incrementally, the cost is easier to fit into an operating budget.
+
+Additional considerations that I think would be important to include:
+
+1. Data management and governance plan
+    -   Tomlinson mentions that the MIDL should be included with initial IPDs in the appendix, but I think that alongside this section, there should be a detailed discussion of how data will be managed and governed. By defining data ownership, retention timelines, and standards, the manager demonstrates to executive leadership how the data behind IPDs is reliable and secure.
+2. Change management plan
+    -   Discussing the human aspect of implementation (resistance to change) specifically in an implementation report demonstrates that a manager is proactive about handling interpersonal issues. By implementing change management plans before go-live, the GIS manager can increase user adoption and decrease resistance, which can improve KPIs and improve benefits delivered by GIS.
+3. Training strategy
+    -   Along with the change management plan, there should be a framework for training staff on the new GIS tools and processes. A thorough training regime reduces staff resistance and increases data quality and product utility, once again magnifying the benefits to the enterprise.
+4. Scalability and future growth
+    -   Tomlinson describes that upgrade planning is important in the funding alternatives section, but I think that an investigation into projected users and infrastructure load is important on its own. Not only does increased adoption of GIS require higher hardware throughput, it may require more staff or other personnel. Having a more specific "projection" section discussing why the planned implementation is future-proof demonstrates a proactive mindset which will keep the organization moving towards its goals.
