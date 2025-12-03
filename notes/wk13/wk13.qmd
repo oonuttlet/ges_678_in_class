@@ -1,0 +1,95 @@
+---
+title: "GES 678: Week 13"
+subtitle: "Post-implementation Resources"
+format: 
+  pdf:
+    toc: true
+date: "12-3-2025"
+---
+
+{{< pagebreak >}}
+
+## Certifications
+
+-   Project Management Institute (PMI)
+    -   Learn to manage people, processes, and business priorities of professional projects
+    -   Wide range and levels of training and certifications
+    -   Project Management Book of Knowledge (PMBOK)
+    
+-   GIS Certification Institute
+    -   GISP
+    -   Requires a wide range of knowledge about GIS
+    
+-   Urban and Regional Information Systems Association
+    -   Geospatial Professional Network
+    -   Offers training and workshops for GIS managers
+    -   Focus on leadership, communication, and geographic thinking
+
+-   Maryland State Geographic Information Committee (MSGIC)
+    -   “promote coordinated development and efficient use of resources amongst all entities involved in the collection and/or use of spatial data and GIS technologies in Maryland”
+    
+-   MD iMAP
+    -   Maryland's Open Data (enterprise GIS)
+    -   Data, training, committees, resource links
+    
+-   State of Virginia (VAMLIS; [https://www.vamlis.org](https://www.vamlis.org))
+
+## Conferences
+
+-   TUGIS
+    -   Annual, state-wide attendance
+    -   Opportunity to meet other GIS professionals, present papers, meet vendors
+    
+-   Other conferences
+    -   Vendor-sponsored
+    -   Targeted:
+        -   Industries
+        -   Sectors
+        -   Products
+
+## Conclusions
+
+-   Tech seminar
+    -   Requirements Gathering
+        -   Instructional/Informational
+        -   Gathering specifications
+        -   Two-way communication
+    -   Consensus Building
+        -   Generate buy-in
+        -   Method for prioritizing
+
+-   Describe information products
+    -   Outputs
+        -   Reports, maps, services
+    -   Inputs
+        -   Data sources
+            -   Availability, update schedule, restrictions, limitations
+    -   Error tolerance
+
+-   Define system scope
+    -   MIDL
+    -   Data acquisition
+    -   Maintenance and update
+    -   Storage and retrieval
+    -   Security
+
+-   Cost/benefits, risks, change
+    -   Identify costs, benefits, and risk avoidance
+    -   Risks
+        -   Log, track, report, update
+        -   Mitigation plan for risks and issues
+    -   Change management plan
+        -   Communication plan
+    -   SWOT
+    
+-   Implementation
+    -   Culmination of previous steps
+        -   Governance
+        -   Risks
+        -   Resources
+        -   Requirements
+        -   Products and processes
+        -   Legal issues
+        -   Security
+        -   Change management
+
