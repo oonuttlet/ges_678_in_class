@@ -1,0 +1,11 @@
+---
+title: "Preliminary Assessment Report: Establishing a GIS Section for the City of Cayce"
+author: "Harrison DeFord"
+format: 
+  pdf:
+    toc: true
+date: "12-10-2025"
+---
+
+{{< pagebreak >}}
+

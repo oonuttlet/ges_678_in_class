@@ -1,0 +1,43 @@
+---
+title: "GES 678: Final Report Assignment"
+subtitle: "Due 12-10-2025"
+format: 
+  pdf:
+    toc: false
+date: "12-1-2025"
+---
+
+Assignment
+
+The final exam will consist of a Geographic Information Systems (GIS) project assessment, focusing on the evaluation of a municipal plan. This paper should be grounded in the readings from Tomlinson, supplemented by insights from class discussions, lectures, and personal experiences. The target length for this paper is approximately ten pages.
+
+
+Preliminary Assessment Report: Establishing a GIS Section for the City of Cayce
+
+
+**Scenario Overview**
+
+In 2020, the City of Cayce, located within Lexington County, South Carolina, developed a 2020 – 2030 comprehensive plan. For the purposes of this assignment, it is assumed that the City of Cayce currently depends on the surrounding County for GIS mapping and data services. Following the adoption of the comprehensive plan, the City Manager has brought on a GIS Manager (you) for a one year term to conduct a preliminary assessment regarding the feasibility and process of establishing a dedicated GIS section within the City.
+
+
+**Assignment Objectives**
+
+As the newly appointed GIS Manager, the task is to prepare a formal report intended for the Mayor and City Council. The purpose of this report is to propose a project plan for the development of a GIS section and the subsequent implementation of a city-wide GIS program. The report should address, but not be limited to, the following components:
+
+
+-   Name and description of the organization.
+-   An executive summary (2-3 paragraphs) discussing the creation of a GIS section, providing a justified position either in support of or against the initiative.
+-   The mission and vision of the proposed GIS program, emphasizing alignment with the City’s core values.
+-   Identification and explanation of three benefits or cost savings that a GIS program could deliver to the City.
+-   Selection and explanation of three common strategic plan elements (excluding program budget and staffing) drawn from other plans, with discussion on their potential impact on actions taken.
+-   Development of a risk log, listing at least five risks associated with the GIS program, utilizing the provided risk log template and completing all required sections.
+-   Description of the management approach for collecting products and inputs from various city departments.  Provide specifics on your approach.
+-   Draft a communication plan that identifies three to four stakeholder groups, detailing strategies for managing communications with each, and utilizing the provided class template.
+-   Identification of three change management issues related to establishing the GIS section, along with strategies for addressing these challenges.
+-   Creation of a one-page schedule that includes four milestones, each aligned with goals from the comprehensive plan.
+-   Preparation of a one-page SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis, with at least two items identified from the plan for each category.
+-   Description of the top three to five priorities for the first six to twelve months, with rationale for their selection and their significance to the program's success.
+
+
+A completed copy of the report should be submitted to the Blackboard assignment section prior to the scheduled class time.
+
